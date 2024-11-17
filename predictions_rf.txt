@@ -1,0 +1,1997 @@
+Model Accuracy: 0.7706970659689778
+Classification Report:
+                                      precision    recall  f1-score   support
+
+                         Afghanistan       0.70      0.95      0.81        22
+                             Albania       0.91      0.91      0.91        22
+                             Algeria       0.77      0.91      0.83        22
+                      American Samoa       0.74      0.67      0.70        21
+                             Andorra       0.67      0.73      0.70        22
+                              Angola       0.78      0.95      0.86        22
+                            Anguilla       0.73      0.76      0.74        21
+                          Antarctica       0.60      0.71      0.65        21
+                 Antigua and Barbuda       0.78      0.82      0.80        22
+                           Argentina       0.54      0.68      0.60        22
+                             Armenia       0.91      0.95      0.93        22
+                               Aruba       0.75      0.71      0.73        21
+                           Australia       0.71      0.68      0.70        22
+                             Austria       0.72      0.95      0.82        22
+                          Azerbaijan       0.62      0.68      0.65        22
+                      Åland Islands       0.67      0.57      0.62        21
+                             Bahamas       1.00      0.86      0.93        22
+                             Bahrain       0.57      0.73      0.64        22
+                          Bangladesh       0.83      0.86      0.84        22
+                            Barbados       0.87      0.91      0.89        22
+                             Belarus       0.78      0.82      0.80        22
+                             Belgium       0.95      0.82      0.88        22
+                              Belize       0.91      0.91      0.91        22
+                               Benin       0.90      0.82      0.86        22
+                             Bermuda       0.63      0.85      0.72        20
+                              Bhutan       0.71      1.00      0.83        22
+                             Bolivia       0.82      0.82      0.82        22
+              Bosnia and Herzegovina       0.89      0.73      0.80        22
+                            Botswana       0.90      0.82      0.86        22
+                       Bouvet Island       0.00      0.00      0.00        12
+                              Brazil       0.91      0.95      0.93        22
+      British Indian Ocean Territory       0.59      0.62      0.60        21
+              British Virgin Islands       0.88      0.71      0.79        21
+                              Brunei       0.86      0.86      0.86        22
+                            Bulgaria       0.88      0.95      0.91        22
+                        Burkina Faso       0.84      0.95      0.89        22
+                             Burundi       0.95      0.86      0.90        22
+                            Cambodia       0.79      0.90      0.84        21
+                            Cameroon       0.86      0.86      0.86        22
+                              Canada       0.73      0.73      0.73        22
+                          Cape Verde       0.63      0.77      0.69        22
+               Caribbean Netherlands       0.29      0.24      0.26        21
+                      Cayman Islands       0.75      0.71      0.73        21
+            Central African Republic       1.00      0.80      0.89        15
+                                Chad       0.81      0.95      0.88        22
+                               Chile       0.76      0.86      0.81        22
+                               China       0.50      0.76      0.60        21
+                    Christmas Island       0.50      0.57      0.53        21
+             Cocos (Keeling) Islands       0.78      0.86      0.82        21
+                            Colombia       0.63      0.81      0.71        21
+                             Comoros       0.90      0.82      0.86        22
+                        Cook Islands       0.72      0.86      0.78        21
+                          Costa Rica       0.89      0.77      0.83        22
+                             Croatia       0.68      0.77      0.72        22
+                                Cuba       0.80      0.91      0.85        22
+                            Curaçao       0.63      0.60      0.62        20
+                              Cyprus       0.43      0.73      0.54        22
+                             Czechia       0.90      0.86      0.88        21
+                            DR Congo       0.22      0.18      0.20        22
+                             Denmark       0.86      0.82      0.84        22
+                            Djibouti       0.87      0.91      0.89        22
+                            Dominica       0.84      0.73      0.78        22
+                  Dominican Republic       1.00      0.86      0.93        22
+                             Ecuador       0.90      0.86      0.88        22
+                               Egypt       0.84      0.73      0.78        22
+                         El Salvador       0.59      0.73      0.65        22
+                   Equatorial Guinea       0.84      0.73      0.78        22
+                             Eritrea       0.94      0.77      0.85        22
+                             Estonia       0.73      0.73      0.73        22
+                            Eswatini       0.73      0.73      0.73        22
+                            Ethiopia       0.83      0.91      0.87        22
+                    Falkland Islands       0.62      0.62      0.62        21
+                       Faroe Islands       0.77      0.95      0.85        21
+                                Fiji       0.82      0.82      0.82        22
+                             Finland       0.87      0.91      0.89        22
+                              France       0.70      0.95      0.81        22
+                       French Guiana       0.78      0.67      0.72        21
+                    French Polynesia       0.66      0.90      0.76        21
+ French Southern and Antarctic Lands       0.52      0.62      0.57        21
+                               Gabon       0.83      0.91      0.87        22
+                              Gambia       0.94      0.77      0.85        22
+                             Georgia       0.46      0.55      0.50        22
+                             Germany       0.91      0.95      0.93        22
+                               Ghana       0.89      0.81      0.85        21
+                           Gibraltar       0.88      0.67      0.76        21
+                              Greece       0.75      0.55      0.63        22
+                           Greenland       0.93      0.67      0.78        21
+                             Grenada       0.80      0.73      0.76        22
+                          Guadeloupe       0.89      0.76      0.82        21
+                                Guam       0.80      0.76      0.78        21
+                           Guatemala       0.75      0.82      0.78        22
+                            Guernsey       0.86      0.86      0.86        21
+                              Guinea       0.62      0.73      0.67        22
+                       Guinea-Bissau       0.80      0.55      0.65        22
+                              Guyana       0.76      0.73      0.74        22
+                               Haiti       0.82      0.82      0.82        22
+   Heard Island and McDonald Islands       0.73      0.76      0.74        21
+                            Honduras       0.59      0.77      0.67        22
+                           Hong Kong       0.68      0.71      0.70        21
+                             Hungary       0.89      0.77      0.83        22
+                             Iceland       0.87      0.91      0.89        22
+                               India       0.95      0.95      0.95        22
+                           Indonesia       0.59      0.73      0.65        22
+                                Iran       0.94      0.68      0.79        22
+                                Iraq       0.79      0.86      0.83        22
+                             Ireland       0.82      0.82      0.82        22
+                         Isle of Man       0.73      0.90      0.81        21
+                              Israel       0.74      0.77      0.76        22
+                               Italy       0.79      0.68      0.73        22
+                         Ivory Coast       0.91      0.95      0.93        22
+                             Jamaica       0.95      0.91      0.93        22
+                               Japan       0.73      0.90      0.81        21
+                              Jersey       0.67      0.86      0.75        21
+                              Jordan       0.75      0.71      0.73        21
+                          Kazakhstan       0.89      0.76      0.82        21
+                               Kenya       0.90      0.86      0.88        22
+                            Kiribati       0.75      0.68      0.71        22
+                              Kosovo       0.58      0.82      0.68        22
+                              Kuwait       0.95      0.91      0.93        22
+                          Kyrgyzstan       0.95      0.91      0.93        22
+                                Laos       0.86      0.82      0.84        22
+                              Latvia       0.86      0.86      0.86        22
+                             Lebanon       0.82      0.82      0.82        22
+                             Lesotho       0.80      0.91      0.85        22
+                             Liberia       0.76      0.59      0.67        22
+                               Libya       0.68      0.77      0.72        22
+                       Liechtenstein       0.75      0.68      0.71        22
+                           Lithuania       0.94      0.73      0.82        22
+                          Luxembourg       0.62      0.91      0.74        22
+                               Macau       0.87      0.95      0.91        21
+                          Madagascar       0.87      0.91      0.89        22
+                              Malawi       0.83      0.68      0.75        22
+                            Malaysia       0.92      0.55      0.69        22
+                            Maldives       0.94      0.68      0.79        22
+                                Mali       0.89      0.77      0.83        22
+                               Malta       0.94      0.81      0.87        21
+                    Marshall Islands       1.00      1.00      1.00        22
+                          Martinique       0.72      0.62      0.67        21
+                          Mauritania       0.77      0.91      0.83        22
+                           Mauritius       0.96      1.00      0.98        22
+                             Mayotte       0.66      0.90      0.76        21
+                              Mexico       0.83      0.68      0.75        22
+                          Micronesia       0.48      0.55      0.51        22
+                             Moldova       0.85      0.77      0.81        22
+                              Monaco       0.88      0.64      0.74        22
+                            Mongolia       0.88      1.00      0.93        21
+                          Montenegro       0.95      0.82      0.88        22
+                          Montserrat       0.68      0.62      0.65        21
+                             Morocco       0.67      0.73      0.70        22
+                          Mozambique       0.95      0.82      0.88        22
+                             Myanmar       0.85      0.77      0.81        22
+                             Namibia       0.89      0.73      0.80        22
+                               Nauru       0.88      0.95      0.91        22
+                               Nepal       0.80      0.73      0.76        22
+                         Netherlands       0.48      0.55      0.51        22
+                       New Caledonia       0.73      0.80      0.76        20
+                         New Zealand       0.70      0.73      0.71        22
+                           Nicaragua       0.68      0.62      0.65        21
+                               Niger       1.00      0.91      0.95        22
+                             Nigeria       0.77      0.91      0.83        22
+                                Niue       0.78      0.86      0.82        21
+                      Norfolk Island       0.67      0.67      0.67        21
+                         North Korea       1.00      0.39      0.56        18
+                     North Macedonia       0.90      0.86      0.88        22
+            Northern Mariana Islands       0.74      0.85      0.79        20
+                              Norway       0.79      0.68      0.73        22
+                                Oman       0.87      0.91      0.89        22
+                            Pakistan       0.76      0.86      0.81        22
+                               Palau       0.95      0.95      0.95        22
+                           Palestine       0.68      0.59      0.63        22
+                              Panama       0.81      0.77      0.79        22
+                    Papua New Guinea       0.80      0.91      0.85        22
+                            Paraguay       0.76      0.73      0.74        22
+                                Peru       0.86      0.86      0.86        22
+                         Philippines       0.89      0.73      0.80        22
+                    Pitcairn Islands       0.29      0.31      0.30        13
+                              Poland       0.79      1.00      0.88        22
+                            Portugal       0.90      0.82      0.86        22
+                         Puerto Rico       0.84      1.00      0.91        21
+                               Qatar       0.85      0.81      0.83        21
+               Republic of the Congo       0.20      0.18      0.19        22
+                            Réunion       0.93      0.67      0.78        21
+                             Romania       0.76      0.59      0.67        22
+                              Russia       0.85      0.77      0.81        22
+                              Rwanda       0.95      0.90      0.93        21
+                   Saint Barthélemy       0.41      0.52      0.46        21
+               Saint Kitts and Nevis       0.82      0.82      0.82        22
+                         Saint Lucia       0.90      0.86      0.88        22
+                        Saint Martin       0.41      0.33      0.37        21
+           Saint Pierre and Miquelon       0.93      0.62      0.74        21
+    Saint Vincent and the Grenadines       0.94      0.73      0.82        22
+                               Samoa       0.74      0.64      0.68        22
+                          San Marino       0.70      0.95      0.81        22
+                        Saudi Arabia       0.80      0.73      0.76        22
+            São Tomé and Príncipe       0.74      0.64      0.68        22
+                             Senegal       0.78      0.82      0.80        22
+                              Serbia       0.86      0.86      0.86        22
+                          Seychelles       1.00      0.95      0.98        22
+                        Sierra Leone       0.90      0.86      0.88        22
+                           Singapore       0.61      0.64      0.62        22
+                        Sint Maarten       0.50      0.62      0.55        21
+                            Slovakia       0.66      0.86      0.75        22
+                            Slovenia       0.65      0.59      0.62        22
+                     Solomon Islands       0.91      0.95      0.93        22
+                             Somalia       0.53      0.77      0.63        22
+                        South Africa       0.92      0.50      0.65        22
+                       South Georgia       0.20      0.10      0.13        21
+                         South Korea       0.86      0.90      0.88        21
+                         South Sudan       0.55      0.50      0.52        22
+                               Spain       0.74      0.78      0.76        18
+                           Sri Lanka       0.84      0.95      0.89        22
+                               Sudan       0.48      0.45      0.47        22
+                            Suriname       0.71      0.91      0.80        22
+              Svalbard and Jan Mayen       0.33      0.67      0.44        21
+                              Sweden       0.88      0.68      0.77        22
+                         Switzerland       0.76      0.86      0.81        22
+                               Syria       0.77      0.81      0.79        21
+                              Taiwan       0.83      0.91      0.87        22
+                          Tajikistan       0.85      0.77      0.81        22
+                            Tanzania       0.95      0.90      0.93        21
+                            Thailand       0.95      0.91      0.93        22
+                         Timor-Leste       0.88      0.64      0.74        22
+                                Togo       0.88      0.88      0.88         8
+                             Tokelau       1.00      0.95      0.98        21
+                               Tonga       0.89      0.73      0.80        22
+                 Trinidad and Tobago       1.00      0.95      0.98        22
+                             Tunisia       0.85      0.77      0.81        22
+                              Turkey       0.92      0.50      0.65        22
+                        Turkmenistan       0.88      0.95      0.91        22
+            Turks and Caicos Islands       0.30      0.21      0.25        14
+                              Tuvalu       0.84      0.73      0.78        22
+                              Uganda       0.86      0.82      0.84        22
+                             Ukraine       1.00      0.73      0.84        22
+                United Arab Emirates       0.90      0.90      0.90        21
+                      United Kingdom       0.94      0.77      0.85        22
+                       United States       0.50      0.55      0.52        22
+United States Minor Outlying Islands       0.33      0.19      0.24        21
+        United States Virgin Islands       0.89      0.81      0.85        21
+                             Uruguay       0.81      0.81      0.81        21
+                          Uzbekistan       0.72      0.95      0.82        22
+                             Vanuatu       0.94      0.68      0.79        22
+                        Vatican City       0.88      1.00      0.94        22
+                           Venezuela       0.84      0.73      0.78        22
+                             Vietnam       0.88      0.68      0.77        22
+                   Wallis and Futuna       0.83      0.90      0.86        21
+                      Western Sahara       0.62      0.48      0.54        21
+                               Yemen       1.00      0.77      0.87        22
+                              Zambia       0.94      0.77      0.85        22
+                            Zimbabwe       0.91      0.91      0.91        22
+
+                            accuracy                           0.77      5351
+                           macro avg       0.78      0.77      0.77      5351
+                        weighted avg       0.78      0.77      0.77      5351
+
+True Label: Bosnia and Herzegovina
+  21166.png, 21078.png, 21160.png, 21075.png, 21169.png, 21110.png, 21164.png, 21133.png, 21095.png, 21117.png, 21094.png, 21089.png, 21097.png, 21107.png, 21134.png, 21113.png are predicted as Bosnia and Herzegovina: 16 times
+  21083.png are predicted as Papua New Guinea: 1 times
+  21114.png are predicted as Slovakia: 1 times
+  21147.png are predicted as North Macedonia: 1 times
+  21139.png are predicted as Australia: 1 times
+  21091.png are predicted as Paraguay: 1 times
+  bosnia and herzegovina_1.png are predicted as Antarctica: 1 times
+
+True Label: Tuvalu
+  15175.png, 15127.png, 15202.png, 15141.png, tuvalu_1.png, 15189.png, 15107.png, 15191.png, 15163.png, 15123.png, 15108.png, 15128.png, 15155.png, 15169.png, 15116.png, 15142.png are predicted as Tuvalu: 16 times
+  15173.png are predicted as Fiji: 1 times
+  15186.png, 15165.png are predicted as Svalbard and Jan Mayen: 2 times
+  15138.png are predicted as Greece: 1 times
+  15143.png are predicted as New Zealand: 1 times
+  15176.png are predicted as Cook Islands: 1 times
+
+True Label: Switzerland
+  9633.png are predicted as Isle of Man: 1 times
+  9588.png, OIP.XbERPjatcIrmdWdR1S0UbwHaE0.png, 9572.png, 9625.png, switzerland_1.png, 9595.png, 9644.png, 9576.png, 9603.png, 9566.png, 9571.png, 9656.png, 9569.png, 9630.png, 9654.png, 9660.png, 9578.png, 9632.png, 9653.png are predicted as Switzerland: 19 times
+  9575.png are predicted as Micronesia: 1 times
+  9582.png are predicted as Nicaragua: 1 times
+
+True Label: Ecuador
+  18252.png are predicted as Colombia: 1 times
+  18260.png, 18212.png, 18223.png, 18255.png, 18219.png, ecuador_1.png, 18250.png, 18269.png, 18281.png, 18279.png, 18274.png, 18236.png, 18230.png, 18221.png, 18263.png, 18215.png, 18245.png, 18304.png, 18297.png are predicted as Ecuador: 19 times
+  18305.png are predicted as Azerbaijan: 1 times
+  18248.png are predicted as Turks and Caicos Islands: 1 times
+
+True Label: Kenya
+  8790.png, 8793.png, 8810.png, 8784.png, 8797.png, 8835.png, 8856.png, 8787.png, 8788.png, 8763.png, 8795.png, 8776.png, 8778.png, 8773.png, 8855.png, 8775.png, 8837.png, 8820.png, 8822.png are predicted as Kenya: 19 times
+  8861.png are predicted as Western Sahara: 1 times
+  8851.png are predicted as Jordan: 1 times
+  kenya_1.png are predicted as Germany: 1 times
+
+True Label: Haiti
+  19933.png are predicted as Slovakia: 1 times
+  19949.png, haiti_1.png, 19887.png, 19894.png, 19931.png, 19891.png, 19917.png, 19947.png, 19955.png, 19870.png, 19937.png, 19880.png, 19872.png, 19876.png, 19871.png, 19948.png, 19938.png, 19953.png are predicted as Haiti: 18 times
+  19934.png are predicted as Cape Verde: 1 times
+  19892.png are predicted as Thailand: 1 times
+  19951.png are predicted as Taiwan: 1 times
+
+True Label: Myanmar
+  4175.png, 4146.png, 4080.png, 4126.png, 4125.png, 4091.png, 4120.png, 4100.png, 4171.png, 4099.png, 4098.png, 4140.png, 4172.png, 4132.png, 4151.png, 4102.png, 4119.png are predicted as Myanmar: 17 times
+  4160.png are predicted as Cyprus: 1 times
+  myanmar_1.png are predicted as Bhutan: 1 times
+  4138.png are predicted as Taiwan: 1 times
+  4114.png are predicted as Malawi: 1 times
+  4167.png are predicted as Eswatini: 1 times
+
+True Label: Lesotho
+  403.png, 436.png, 432.png, 468.png, 439.png, 471.png, 467.png, 473.png, 483.png, 495.png, 447.png, 409.png, 400.png, 478.png, 475.png, 474.png, lesotho_1.png, 477.png, 428.png, 497.png are predicted as Lesotho: 20 times
+  412.png are predicted as Argentina: 1 times
+  494.png are predicted as El Salvador: 1 times
+
+True Label: Uganda
+  19005.png, 19046.png, 19079.png, 19045.png, 19059.png, 19098.png, 19074.png, 19038.png, 19028.png, uganda_1.png, 19080.png, 19071.png, 19089.png, 19091.png, 19078.png, 19037.png, 19025.png, 19066.png are predicted as Uganda: 18 times
+  19056.png are predicted as Papua New Guinea: 1 times
+  19083.png are predicted as Afghanistan: 1 times
+  19016.png are predicted as Tunisia: 1 times
+  19039.png are predicted as Pakistan: 1 times
+
+True Label: Hungary
+  6143.png are predicted as Sudan: 1 times
+  OIP.XbERPjatcIrmdWdR1S0UbwHaE0.png, 6138.png, 6098.png, 6134.png, 6132.png, 6120.png, 6109.png, 6115.png, 6113.png, 6089.png, 6136.png, 6123.png, 6106.png, 6164.png, hungary_1.png, 6074.png, 6119.png are predicted as Hungary: 17 times
+  6117.png are predicted as Tajikistan: 1 times
+  6154.png are predicted as Austria: 1 times
+  6137.png are predicted as Poland: 1 times
+  6162.png are predicted as Madagascar: 1 times
+
+True Label: Guinea
+  24669.png, 24649.png, 24725.png, 24646.png, 24689.png, 24681.png, 24708.png, 24657.png, 24662.png, 24693.png, 24659.png, 24666.png, 24633.png, 24652.png, 24721.png, 24654.png are predicted as Guinea: 16 times
+  24676.png, 24679.png are predicted as Equatorial Guinea: 2 times
+  guinea_1.png are predicted as Niue: 1 times
+  24664.png are predicted as Guyana: 1 times
+  24718.png, 24675.png are predicted as Guinea-Bissau: 2 times
+
+True Label: Guatemala
+  15798.png, 15747.png, 15805.png, 15759.png, 15742.png, guatemala_1.png, 15721.png, 15710.png, 15739.png, 15716.png, 15794.png, 15777.png, 15800.png, 15719.png, 15778.png, 15729.png, 15775.png, 15753.png are predicted as Guatemala: 18 times
+  15750.png are predicted as Antarctica: 1 times
+  15741.png are predicted as Somalia: 1 times
+  15733.png are predicted as Cook Islands: 1 times
+  15771.png are predicted as Saudi Arabia: 1 times
+
+True Label: Nauru
+  14037.png, 14061.png, 14095.png, 14089.png, 14080.png, 14044.png, 14027.png, 14076.png, 14066.png, 14030.png, 14047.png, 14097.png, 14057.png, 14038.png, 14090.png, 14102.png, 14084.png, 14021.png, 14072.png, 14009.png, 14015.png are predicted as Nauru: 21 times
+  nauru_1.png are predicted as Cape Verde: 1 times
+
+True Label: Maldives
+  17126.png, OIP.XbERPjatcIrmdWdR1S0UbwHaE0.png, 17112.png, 17116.png, 17114.png, 17178.png, 17119.png, 17146.png, 17147.png, 17202.png, 17122.png, 17144.png, 17198.png, 17189.png, 17107.png are predicted as Maldives: 15 times
+  17165.png are predicted as Morocco: 1 times
+  17173.png are predicted as Libya: 1 times
+  17183.png are predicted as Antigua and Barbuda: 1 times
+  maldives_1.png are predicted as Niue: 1 times
+  17150.png are predicted as Singapore: 1 times
+  17164.png are predicted as Armenia: 1 times
+  17194.png are predicted as Gambia: 1 times
+
+True Label: Monaco
+  5501.png, monaco_1.png, 5442.png, 5465.png, 5517.png, 5499.png are predicted as Indonesia: 6 times
+  5518.png are predicted as Singapore: 1 times
+  5437.png, 5509.png, 5443.png, 5440.png, 5471.png, 5444.png, 5452.png, 5523.png, 5466.png, 5486.png, 5527.png, 5451.png, 5472.png, 5514.png are predicted as Monaco: 14 times
+  5521.png are predicted as Guernsey: 1 times
+
+True Label: Cook Islands
+  OIP.XbERPjatcIrmdWdR1S0UbwHaE0.png, 4914.png, 4923.png, 4968.png, 4952.png, 4878.png, 4900.png, 4899.png, 4941.png, 4974.png, 4933.png, 4898.png, 4881.png, 4897.png, 4887.png, 4896.png, 4947.png, 4913.png are predicted as Cook Islands: 18 times
+  4958.png are predicted as French Southern and Antarctic Lands: 1 times
+  4921.png are predicted as Pitcairn Islands: 1 times
+  4966.png are predicted as Guam: 1 times
+
+True Label: Namibia
+  3012.png are predicted as Cameroon: 1 times
+  3047.png are predicted as Oman: 1 times
+  2998.png are predicted as Jordan: 1 times
+  namibia_1.png, 3051.png, 2983.png, 2992.png, 3060.png, 2981.png, 2996.png, 3054.png, 3024.png, 3033.png, 2979.png, 3035.png, 3067.png, 3074.png, 3000.png, 2999.png are predicted as Namibia: 16 times
+  3038.png are predicted as Christmas Island: 1 times
+  3026.png are predicted as Faroe Islands: 1 times
+  3008.png are predicted as Curaçao: 1 times
+
+True Label: Solomon Islands
+  3362.png, 3366.png, 3296.png, 3316.png, 3302.png, 3339.png, 3342.png, 3335.png, 3338.png, 3337.png, 3285.png, 3350.png, 3345.png, 3293.png, 3322.png, 3333.png, 3286.png, 3311.png, 3369.png, 3359.png, 3336.png are predicted as Solomon Islands: 21 times
+  solomon islands_1.png are predicted as Saint Vincent and the Grenadines: 1 times
+
+True Label: Benin
+  10167.png, benin_1.png, 10208.png, 10223.png, 10218.png, 10234.png, 10172.png, 10214.png, 10239.png, 10165.png, 10190.png, 10244.png, 10168.png, 10241.png, 10200.png, 10173.png, 10187.png, 10219.png are predicted as Benin: 18 times
+  10209.png are predicted as Bahrain: 1 times
+  10256.png are predicted as São Tomé and Príncipe: 1 times
+  10249.png are predicted as Mali: 1 times
+  10246.png are predicted as Bangladesh: 1 times
+
+True Label: Kiribati
+  9725.png are predicted as Panama: 1 times
+  9699.png, 9717.png, 9718.png, 9728.png, 9754.png, 9665.png, 9734.png, 9672.png, 9685.png, 9708.png, 9671.png, 9736.png, 9676.png, 9721.png, 9727.png are predicted as Kiribati: 15 times
+  9753.png are predicted as Luxembourg: 1 times
+  kiribati_1.png are predicted as Indonesia: 1 times
+  9693.png are predicted as Burundi: 1 times
+  9723.png are predicted as Belarus: 1 times
+  9739.png, 9747.png are predicted as Suriname: 2 times
+
+True Label: Greece
+  OIP.XbERPjatcIrmdWdR1S0UbwHaE0.png, 16817.png, 16833.png, 16891.png, 16812.png, 16903.png, 16899.png, 16837.png, 16892.png, 16866.png, 16865.png, 16807.png are predicted as Greece: 12 times
+  16904.png are predicted as Heard Island and McDonald Islands: 1 times
+  16886.png, 16815.png, 16818.png are predicted as Northern Mariana Islands: 3 times
+  16879.png, 16861.png are predicted as El Salvador: 2 times
+  16890.png are predicted as Somalia: 1 times
+  16869.png are predicted as Argentina: 1 times
+  16842.png are predicted as Eswatini: 1 times
+  greece_1.png are predicted as United States Minor Outlying Islands: 1 times
+
+True Label: Eswatini
+  11836.png are predicted as Honduras: 1 times
+  11768.png, 11832.png, 11795.png, 11838.png, 11788.png, 11759.png, 11756.png, 11776.png, 11816.png, eswatini_1.png, 11840.png, 11772.png, 11841.png, 11819.png, 11814.png, 11799.png are predicted as Eswatini: 16 times
+  11834.png are predicted as Bhutan: 1 times
+  11789.png are predicted as Azerbaijan: 1 times
+  11800.png are predicted as Brunei: 1 times
+  11806.png are predicted as Mongolia: 1 times
+  11781.png are predicted as Suriname: 1 times
+
+True Label: Malaysia
+  10376.png, 10456.png, 10365.png, 10369.png, 10371.png, 10385.png, 10368.png, 10426.png, 10429.png, 10417.png, 10392.png, 10430.png are predicted as Malaysia: 12 times
+  10378.png are predicted as Argentina: 1 times
+  10425.png are predicted as Caribbean Netherlands: 1 times
+  10448.png, 10444.png are predicted as Afghanistan: 2 times
+  10428.png are predicted as Antigua and Barbuda: 1 times
+  10453.png are predicted as Svalbard and Jan Mayen: 1 times
+  10379.png are predicted as Morocco: 1 times
+  10410.png are predicted as Liechtenstein: 1 times
+  10454.png, malaysia_1.png are predicted as United States: 2 times
+
+True Label: Kuwait
+  13275.png, 13256.png, 13238.png, 13215.png, 13291.png, 13224.png, 13236.png, 13254.png, 13268.png, 13208.png, 13261.png, 13207.png, 13272.png, kuwait_1.png, 13264.png, 13279.png, 13276.png, 13243.png, 13228.png, 13303.png are predicted as Kuwait: 20 times
+  13248.png are predicted as Canada: 1 times
+  13242.png are predicted as Equatorial Guinea: 1 times
+
+True Label: New Zealand
+  18794.png, 18713.png are predicted as Kosovo: 2 times
+  18737.png, 18742.png, 18715.png, 18774.png, 18744.png, 18723.png, 18751.png, 18796.png, 18767.png, 18718.png, 18741.png, 18748.png, 18747.png, 18759.png, 18793.png, 18714.png are predicted as New Zealand: 16 times
+  18787.png, 18781.png are predicted as Curaçao: 2 times
+  18763.png are predicted as Cook Islands: 1 times
+  new zealand_1.png are predicted as Cuba: 1 times
+
+True Label: Ireland
+  15221.png, 15278.png, 15213.png, 15214.png, 15216.png, 15206.png, 15267.png, 15233.png, 15274.png, 15287.png, 15304.png, 15253.png, 15240.png, 15255.png, 15212.png, 15272.png, 15247.png, 15295.png are predicted as Ireland: 18 times
+  15259.png are predicted as Christmas Island: 1 times
+  ireland_1.png are predicted as Bhutan: 1 times
+  15302.png are predicted as Jamaica: 1 times
+  15290.png are predicted as Italy: 1 times
+
+True Label: Sierra Leone
+  12329.png, 12267.png, 12294.png, 12270.png, 12251.png, 12256.png, 12331.png, 12309.png, 12278.png, 12258.png, 12287.png, 12336.png, 12335.png, 12314.png, 12253.png, 12242.png, 12298.png, 12273.png, 12332.png are predicted as Sierra Leone: 19 times
+  12316.png are predicted as Caribbean Netherlands: 1 times
+  12341.png are predicted as Uruguay: 1 times
+  sierra leone_1.png are predicted as Netherlands: 1 times
+
+True Label: Laos
+  7530.png are predicted as Tunisia: 1 times
+  7513.png are predicted as Burkina Faso: 1 times
+  7516.png, 7547.png, 7489.png, 7510.png, 7535.png, 7497.png, 7486.png, laos_1.png, 7476.png, 7519.png, 7471.png, 7479.png, 7540.png, 7565.png, 7554.png, 7523.png, 7491.png, 7529.png are predicted as Laos: 18 times
+  7536.png are predicted as Slovakia: 1 times
+  7508.png are predicted as Switzerland: 1 times
+
+True Label: Saint Martin
+  15552.png, 15599.png, 15603.png, 15537.png, 15533.png, 15581.png, 15518.png are predicted as Saint Martin: 7 times
+  OIP.XbERPjatcIrmdWdR1S0UbwHaE0.png, 15572.png, 15571.png, 15512.png, 15515.png, 15553.png, 15579.png, 15507.png, 15596.png, 15517.png are predicted as Sint Maarten: 10 times
+  15570.png, 15588.png, 15551.png are predicted as France: 3 times
+  15545.png are predicted as Falkland Islands: 1 times
+
+True Label: Belarus
+  4418.png are predicted as Gibraltar: 1 times
+  4388.png, 4453.png are predicted as Oman: 2 times
+  4429.png, 4434.png, 4461.png, 4432.png, 4438.png, 4403.png, 4414.png, 4455.png, belarus_1.png, 4422.png, 4433.png, 4464.png, 4458.png, 4459.png, 4409.png, 4476.png, 4424.png, 4413.png are predicted as Belarus: 18 times
+  4426.png are predicted as Qatar: 1 times
+
+True Label: Singapore
+  23584.png are predicted as Panama: 1 times
+  23560.png are predicted as Luxembourg: 1 times
+  23610.png, 23529.png, 23604.png, 23536.png, 23625.png, 23616.png, 23568.png, 23614.png, 23566.png, 23542.png, 23586.png, 23530.png, 23590.png, 23549.png are predicted as Singapore: 14 times
+  singapore_1.png, 23595.png are predicted as Indonesia: 2 times
+  23606.png are predicted as Faroe Islands: 1 times
+  23563.png, 23541.png are predicted as Bahrain: 2 times
+  23565.png are predicted as Poland: 1 times
+
+True Label: Italy
+  2256.png, 2213.png, 2230.png, 2203.png, 2231.png, 2217.png, 2195.png, 2204.png, 2226.png, 2262.png, 2245.png, 2275.png, 2215.png, 2258.png, 2264.png are predicted as Italy: 15 times
+  2182.png are predicted as Ireland: 1 times
+  italy_1.png are predicted as Peru: 1 times
+  2198.png are predicted as Bhutan: 1 times
+  2272.png are predicted as Sint Maarten: 1 times
+  2224.png are predicted as Ivory Coast: 1 times
+  2227.png are predicted as Somalia: 1 times
+  2246.png are predicted as Mexico: 1 times
+
+True Label: South Africa
+  9847.png are predicted as Tanzania: 1 times
+  9789.png are predicted as Kosovo: 1 times
+  9805.png, 9784.png, 9775.png, 9764.png, 9825.png, 9768.png, 9815.png, 9813.png, 9776.png, south africa_1.png, 9817.png are predicted as South Africa: 11 times
+  9850.png are predicted as Saudi Arabia: 1 times
+  9862.png are predicted as Comoros: 1 times
+  9773.png are predicted as Luxembourg: 1 times
+  9838.png are predicted as Croatia: 1 times
+  9811.png are predicted as Sri Lanka: 1 times
+  9802.png, 9848.png are predicted as Norfolk Island: 2 times
+  9796.png are predicted as Botswana: 1 times
+  9798.png are predicted as Cuba: 1 times
+
+True Label: Luxembourg
+  22274.png, 22297.png, 22339.png, 22293.png, 22348.png, 22305.png, 22337.png, 22287.png, luxembourg_1.png, 22353.png, 22283.png, 22286.png, 22301.png, 22327.png, 22309.png, 22275.png, 22343.png, 22369.png, 22344.png, 22288.png are predicted as Luxembourg: 20 times
+  22366.png are predicted as Cambodia: 1 times
+  22285.png are predicted as Honduras: 1 times
+
+True Label: Angola
+  13964.png, 13994.png, 13996.png, 13953.png, 13977.png, 13985.png, 13971.png, 13978.png, 13973.png, 13993.png, 13928.png, 13965.png, 13932.png, 13981.png, 13926.png, 14002.png, 13919.png, 13995.png, 13969.png, angola_1.png, 13934.png are predicted as Angola: 21 times
+  13916.png are predicted as Burkina Faso: 1 times
+
+True Label: Gambia
+  2884.png, 2919.png, 2949.png, 2957.png, 2971.png, 2913.png, 2936.png, 2896.png, 2940.png, 2925.png, the gambia_1.png, 2935.png, 2952.png, 2917.png, 2881.png, 2939.png, 2918.png are predicted as Gambia: 17 times
+  2954.png are predicted as Lesotho: 1 times
+  2926.png are predicted as Israel: 1 times
+  2928.png are predicted as Saint Barthélemy: 1 times
+  2967.png are predicted as Venezuela: 1 times
+  2900.png are predicted as Cuba: 1 times
+
+True Label: Saint Kitts and Nevis
+  19453.png, 19458.png, saint kitts and nevis_1.png, 19425.png, 19387.png, 19427.png, 19375.png, 19412.png, 19442.png, 19405.png, 19424.png, 19396.png, 19463.png, 19449.png, 19389.png, 19430.png, 19429.png, 19444.png are predicted as Saint Kitts and Nevis: 18 times
+  19374.png are predicted as Albania: 1 times
+  19398.png are predicted as Grenada: 1 times
+  19467.png are predicted as Mayotte: 1 times
+  19390.png are predicted as French Southern and Antarctic Lands: 1 times
+
+True Label: Mongolia
+  1684.png, 1680.png, 1690.png, OIP.XbERPjatcIrmdWdR1S0UbwHaE0.png, mongolia_1.png, 1776.png, 1723.png, 1778.png, 1738.png, 1764.png, 1768.png, 1753.png, 1713.png, 1777.png, 1745.png, 1734.png, 1739.png, 1736.png, 1699.png, 1757.png, 1730.png are predicted as Mongolia: 21 times
+
+True Label: Madagascar
+  18568.png, 18588.png, 18524.png, 18586.png, 18546.png, 18510.png, 18521.png, 18563.png, 18598.png, 18506.png, 18604.png, 18552.png, 18577.png, 18579.png, 18536.png, 18522.png, madagascar_1.png, 18542.png, 18574.png, 18553.png are predicted as Madagascar: 20 times
+  18594.png are predicted as Åland Islands: 1 times
+  18554.png are predicted as Bahrain: 1 times
+
+True Label: Poland
+  287.png, 291.png, 288.png, 218.png, 293.png, 242.png, poland_1.png, 267.png, 241.png, 290.png, 271.png, 266.png, 249.png, 275.png, 210.png, 234.png, 228.png, 201.png, 212.png, 207.png, 285.png, 226.png are predicted as Poland: 22 times
+
+True Label: Northern Mariana Islands
+  9938.png, 9956.png, 9890.png, 9863.png, 9944.png, 9933.png, 9894.png, 9920.png, 9898.png, 9888.png, 9875.png, 9922.png, 9880.png, 9865.png, 9918.png, 9864.png, 9928.png are predicted as Northern Mariana Islands: 17 times
+  9961.png are predicted as Svalbard and Jan Mayen: 1 times
+  9942.png are predicted as Kosovo: 1 times
+  9906.png are predicted as Guatemala: 1 times
+
+True Label: Dominica
+  21930.png are predicted as Ethiopia: 1 times
+  21909.png are predicted as Bangladesh: 1 times
+  dominica_1.png, 21874.png, 21889.png, 21875.png, 21965.png, 21914.png, 21956.png, 21899.png, 21942.png, 21890.png, 21895.png, 21955.png, 21937.png, 21951.png, 21884.png, 21935.png are predicted as Dominica: 16 times
+  21964.png are predicted as Vanuatu: 1 times
+  21913.png are predicted as Aruba: 1 times
+  21887.png are predicted as Turkmenistan: 1 times
+  21933.png are predicted as Christmas Island: 1 times
+
+True Label: Andorra
+  20923.png, OIP.XbERPjatcIrmdWdR1S0UbwHaE0.png, 20884.png, 20898.png, 20943.png, 20885.png, andorra_1.png, 20914.png, 20893.png, 20878.png, 20879.png, 20945.png, 20872.png, 20911.png, 20889.png, 20967.png are predicted as Andorra: 16 times
+  20960.png are predicted as Cameroon: 1 times
+  20908.png are predicted as Moldova: 1 times
+  20938.png are predicted as Spain: 1 times
+  20929.png are predicted as Niue: 1 times
+  20952.png are predicted as Romania: 1 times
+  20962.png are predicted as Azerbaijan: 1 times
+
+True Label: Mauritania
+  21005.png are predicted as Algeria: 1 times
+  20991.png, 20989.png, 21040.png, 20980.png, 21016.png, mauritania_1.png, 21033.png, 20992.png, 20998.png, 21017.png, 21055.png, 21041.png, 21052.png, 20977.png, 20972.png, 21003.png, 21009.png, 21004.png, 21049.png, 20970.png are predicted as Mauritania: 20 times
+  21042.png are predicted as Benin: 1 times
+
+True Label: Slovakia
+  3445.png, 3451.png, 3457.png, 3433.png, 3429.png, 3393.png, 3435.png, 3430.png, 3388.png, 3389.png, 3396.png, 3378.png, 3399.png, 3381.png, 3408.png, 3453.png, 3439.png, 3421.png, slovakia_1.png are predicted as Slovakia: 19 times
+  3474.png are predicted as Switzerland: 1 times
+  3462.png are predicted as Svalbard and Jan Mayen: 1 times
+  3458.png are predicted as Faroe Islands: 1 times
+
+True Label: Heard Island and McDonald Islands
+  6295.png, 6317.png, 6365.png, 6356.png, 6341.png, 6308.png, 6311.png, 6336.png, 6300.png, 6329.png, 6266.png, 6288.png, 6296.png, 6330.png, 6339.png, 6306.png are predicted as Heard Island and McDonald Islands: 16 times
+  6325.png, 6276.png, 6282.png, 6269.png are predicted as Australia: 4 times
+  6348.png are predicted as Pitcairn Islands: 1 times
+
+True Label: Somalia
+  5612.png, 5547.png, 5613.png, 5552.png, 5622.png, 5563.png, 5632.png, 5621.png, 5569.png, 5604.png, 5623.png, 5615.png, 5579.png, 5617.png, 5603.png, 5626.png, 5533.png are predicted as Somalia: 17 times
+  5619.png, 5535.png are predicted as Micronesia: 2 times
+  5560.png are predicted as Argentina: 1 times
+  5608.png are predicted as Cape Verde: 1 times
+  somalia_1.png are predicted as Antarctica: 1 times
+
+True Label: Svalbard and Jan Mayen
+  8426.png, 8440.png, OIP.XbERPjatcIrmdWdR1S0UbwHaE0.png, 8434.png, 8462.png, 8425.png, 8447.png, 8432.png, 8388.png, 8411.png, 8422.png, 8415.png, 8428.png, 8421.png are predicted as Svalbard and Jan Mayen: 14 times
+  8371.png are predicted as French Southern and Antarctic Lands: 1 times
+  8368.png are predicted as Faroe Islands: 1 times
+  8431.png are predicted as Philippines: 1 times
+  8429.png are predicted as French Polynesia: 1 times
+  8412.png, 8389.png, 8402.png are predicted as Bouvet Island: 3 times
+
+True Label: Republic of the Congo
+  republic of the congo_1.png, 23106.png, 23031.png, OIP.XbERPjatcIrmdWdR1S0UbwHaE0.png, 23066.png, 23089.png, 23065.png, 23075.png, 23090.png, 23061.png, 23118.png, 23055.png, 23041.png, 23048.png are predicted as DR Congo: 14 times
+  23081.png, 23070.png, 23108.png, 23087.png are predicted as Republic of the Congo: 4 times
+  23077.png are predicted as Nigeria: 1 times
+  23059.png are predicted as Sri Lanka: 1 times
+  23094.png are predicted as Sierra Leone: 1 times
+  23079.png are predicted as Namibia: 1 times
+
+True Label: Paraguay
+  12855.png, OIP.XbERPjatcIrmdWdR1S0UbwHaE0.png, 12938.png, 12868.png, 12915.png, paraguay_1.png, 12908.png, 12894.png, 12893.png, 12842.png, 12853.png, 12887.png, 12860.png, 12859.png, 12904.png, 12914.png are predicted as Paraguay: 16 times
+  12854.png, 12940.png are predicted as Netherlands: 2 times
+  12907.png are predicted as Luxembourg: 1 times
+  12888.png are predicted as Finland: 1 times
+  12928.png are predicted as Uruguay: 1 times
+  12898.png are predicted as Nicaragua: 1 times
+
+True Label: Sweden
+  11711.png, 11672.png, OIP.XbERPjatcIrmdWdR1S0UbwHaE0.png, 11658.png, 11708.png, 11696.png, 11661.png, 11712.png, 11651.png, 11715.png, 11726.png, 11655.png, 11677.png, 11716.png, 11643.png are predicted as Sweden: 15 times
+  sweden_1.png are predicted as Argentina: 1 times
+  11675.png, 11679.png are predicted as Nauru: 2 times
+  11682.png are predicted as Japan: 1 times
+  11739.png are predicted as Estonia: 1 times
+  11737.png are predicted as Nicaragua: 1 times
+  11733.png are predicted as Honduras: 1 times
+
+True Label: Malawi
+  22400.png, 22396.png, 22393.png, 22427.png, 22409.png, 22420.png, 22442.png, 22414.png, 22465.png, 22464.png, 22456.png, 22376.png, 22424.png, 22451.png, 22415.png are predicted as Malawi: 15 times
+  22433.png are predicted as Belgium: 1 times
+  22422.png are predicted as Dominica: 1 times
+  malawi_1.png are predicted as Germany: 1 times
+  22428.png are predicted as Libya: 1 times
+  22435.png are predicted as Kenya: 1 times
+  22455.png are predicted as Algeria: 1 times
+  22412.png are predicted as Afghanistan: 1 times
+
+True Label: Finland
+  20675.png, 20749.png, 20756.png, 20767.png, 20768.png, 20682.png, 20722.png, 20692.png, 20714.png, 20690.png, 20696.png, 20738.png, 20710.png, 20746.png, finland_1.png, 20751.png, 20732.png, 20720.png, 20674.png, 20686.png are predicted as Finland: 20 times
+  20689.png, 20693.png are predicted as Greece: 2 times
+
+True Label: Mali
+  9486.png, 9480.png, 9473.png, 9556.png, 9529.png, 9551.png, 9509.png, 9527.png, 9498.png, 9467.png, 9468.png, 9530.png, 9534.png, 9545.png, 9525.png, 9474.png, 9470.png are predicted as Mali: 17 times
+  9516.png are predicted as Chad: 1 times
+  9538.png, 9497.png, 9532.png are predicted as Senegal: 3 times
+  mali_1.png are predicted as Bhutan: 1 times
+
+True Label: Norway
+  16765.png, 16790.png, 16732.png, 16774.png, 16707.png, 16780.png, 16792.png, 16778.png, 16776.png, 16796.png, 16772.png, 16711.png, 16794.png, 16746.png, 16795.png are predicted as Norway: 15 times
+  norway_1.png are predicted as Svalbard and Jan Mayen: 1 times
+  16768.png are predicted as Saint Kitts and Nevis: 1 times
+  16726.png are predicted as Myanmar: 1 times
+  16716.png are predicted as Uzbekistan: 1 times
+  16721.png are predicted as Morocco: 1 times
+  16771.png are predicted as Wallis and Futuna: 1 times
+  16787.png are predicted as Curaçao: 1 times
+
+True Label: Senegal
+  1813.png, 1780.png, 1808.png, 1779.png, 1783.png, 1872.png, 1799.png, 1785.png, 1824.png, 1850.png, 1842.png, 1865.png, 1791.png, 1790.png, 1859.png, 1816.png, 1825.png, senegal_1.png are predicted as Senegal: 18 times
+  1868.png are predicted as Moldova: 1 times
+  1831.png are predicted as Mali: 1 times
+  1804.png are predicted as Mexico: 1 times
+  1876.png are predicted as Portugal: 1 times
+
+True Label: Serbia
+  1907.png, 1885.png, 1970.png, 1940.png, 1908.png, 1886.png, 1977.png, 1962.png, 1956.png, 1888.png, 1965.png, 1905.png, 1929.png, 1922.png, 1920.png, 1937.png, 1978.png, 1974.png, 1911.png are predicted as Serbia: 19 times
+  1923.png are predicted as Libya: 1 times
+  serbia_1.png are predicted as Laos: 1 times
+  1889.png are predicted as Pitcairn Islands: 1 times
+
+True Label: Norfolk Island
+  15685.png, 15667.png are predicted as Nigeria: 2 times
+  15701.png are predicted as Northern Mariana Islands: 1 times
+  15645.png, 15697.png, 15663.png, 15617.png, 15616.png, 15676.png, 15615.png, 15680.png, 15650.png, 15623.png, 15674.png, 15631.png, 15606.png, 15643.png are predicted as Norfolk Island: 14 times
+  15704.png are predicted as Lebanon: 1 times
+  15639.png are predicted as Djibouti: 1 times
+  15668.png are predicted as Vatican City: 1 times
+  15657.png are predicted as Macau: 1 times
+
+True Label: Antigua and Barbuda
+  11275.png, 11305.png, 11313.png, 11264.png, 11327.png, 11316.png, 11295.png, 11318.png, antigua and barbuda_1.png, 11299.png, 11249.png, 11293.png, 11319.png, 11325.png, 11294.png, 11311.png, 11328.png, 11255.png are predicted as Antigua and Barbuda: 18 times
+  11290.png are predicted as Bolivia: 1 times
+  11289.png are predicted as Pitcairn Islands: 1 times
+  11271.png are predicted as Mongolia: 1 times
+  11269.png are predicted as Ethiopia: 1 times
+
+True Label: Brunei
+  19511.png, 19500.png, 19536.png, 19490.png, 19488.png, 19529.png, 19532.png, 19567.png, 19549.png, 19534.png, 19538.png, brunei_1.png, 19498.png, 19508.png, 19516.png, 19537.png, 19541.png, 19553.png, 19558.png are predicted as Brunei: 19 times
+  19518.png are predicted as Bhutan: 1 times
+  19520.png are predicted as Aruba: 1 times
+  19560.png are predicted as Cyprus: 1 times
+
+True Label: Saint Pierre and Miquelon
+  17450.png, 17445.png, 17499.png, 17481.png, 17467.png, 17490.png, 17411.png, 17482.png, 17488.png, 17501.png, 17417.png, 17504.png, 17436.png are predicted as Saint Pierre and Miquelon: 13 times
+  17447.png are predicted as Bosnia and Herzegovina: 1 times
+  17439.png are predicted as Aruba: 1 times
+  17415.png are predicted as Svalbard and Jan Mayen: 1 times
+  17438.png are predicted as Martinique: 1 times
+  17457.png are predicted as Uzbekistan: 1 times
+  17418.png are predicted as Christmas Island: 1 times
+  17470.png are predicted as Cocos (Keeling) Islands: 1 times
+  17444.png are predicted as New Caledonia: 1 times
+
+True Label: Czechia
+  OIP.XbERPjatcIrmdWdR1S0UbwHaE0.png, 12111.png, 12054.png, 12069.png, 12061.png, 12085.png, czechia_1.png, 12131.png, 12092.png, 12057.png, 12043.png, 12120.png, 12071.png, 12089.png, 12065.png, 12115.png, 12068.png, 12110.png are predicted as Czechia: 18 times
+  12132.png are predicted as Andorra: 1 times
+  12124.png are predicted as Chile: 1 times
+  12090.png are predicted as Slovenia: 1 times
+
+True Label: Guadeloupe
+  22047.png, 22012.png, 21976.png, 21992.png, 22008.png, 22046.png, 22025.png, 22049.png, 22061.png, 21991.png, 22043.png, 22015.png, 22022.png, 22032.png, 22034.png, 22066.png are predicted as Guadeloupe: 16 times
+  22060.png are predicted as New Caledonia: 1 times
+  22016.png are predicted as Guinea: 1 times
+  21987.png, 22051.png are predicted as Bermuda: 2 times
+  22052.png are predicted as Norfolk Island: 1 times
+
+True Label: Togo
+  togo_1.png are predicted as Rwanda: 1 times
+  5854.png, 5842.png, 5841.png, 5835.png, 5846.png, 5857.png, 5836.png are predicted as Togo: 7 times
+
+True Label: Chile
+  17540.png, 17554.png, 17509.png, 17517.png, chile_1.png, 17539.png, 17593.png, 17570.png, 17576.png, 17560.png, 17588.png, 17566.png, 17536.png, 17512.png, 17557.png, 17568.png, 17532.png, 17603.png, 17556.png are predicted as Chile: 19 times
+  17584.png are predicted as Puerto Rico: 1 times
+  17563.png are predicted as Azerbaijan: 1 times
+  17529.png are predicted as Czechia: 1 times
+
+True Label: Anguilla
+  20590.png, 20578.png, 20629.png, 20656.png, 20608.png, 20650.png, 20637.png, 20635.png, 20598.png, 20605.png, 20600.png, 20593.png, 20586.png, 20570.png, 20662.png, 20619.png are predicted as Anguilla: 16 times
+  20648.png are predicted as Cook Islands: 1 times
+  20620.png are predicted as Bermuda: 1 times
+  20652.png, 20573.png are predicted as Falkland Islands: 2 times
+  20644.png are predicted as Heard Island and McDonald Islands: 1 times
+
+True Label: Montserrat
+  9110.png, 9141.png, 9080.png, 9139.png, 9086.png, 9095.png, 9146.png, 9128.png, 9116.png, 9082.png, 9102.png, 9078.png, 9097.png are predicted as Montserrat: 13 times
+  9155.png are predicted as British Indian Ocean Territory: 1 times
+  9100.png, 9118.png are predicted as Falkland Islands: 2 times
+  9121.png are predicted as Anguilla: 1 times
+  9117.png are predicted as Mayotte: 1 times
+  9124.png, 9127.png are predicted as Turks and Caicos Islands: 2 times
+  9106.png are predicted as British Virgin Islands: 1 times
+
+True Label: Rwanda
+  7714.png, 7735.png, 7694.png, 7682.png, 7742.png, 7676.png, 7720.png, 7716.png, 7750.png, rwanda_1.png, 7701.png, 7674.png, 7727.png, 7718.png, 7736.png, 7725.png, 7732.png, 7731.png, 7711.png are predicted as Rwanda: 19 times
+  7712.png are predicted as Lesotho: 1 times
+  7756.png are predicted as Curaçao: 1 times
+
+True Label: Iran
+  951.png, 903.png, 910.png, 917.png, 896.png, 923.png, 894.png, 904.png, 955.png, 967.png, 964.png, 885.png, 942.png, 887.png, 883.png are predicted as Iran: 15 times
+  933.png are predicted as Syria: 1 times
+  iran_1.png are predicted as Austria: 1 times
+  911.png are predicted as Slovenia: 1 times
+  890.png are predicted as Mayotte: 1 times
+  952.png are predicted as Libya: 1 times
+  980.png are predicted as Indonesia: 1 times
+  963.png are predicted as United Arab Emirates: 1 times
+
+True Label: Bermuda
+  14675.png, 14632.png, 14631.png, 14645.png, 14704.png, 14651.png, 14627.png, 14665.png, 14646.png, 14699.png, 14655.png, 14635.png, 14617.png, 14656.png, 14670.png, 14687.png, 14620.png are predicted as Bermuda: 17 times
+  14641.png are predicted as Bahrain: 1 times
+  14668.png are predicted as Samoa: 1 times
+  14667.png are predicted as Djibouti: 1 times
+
+True Label: DR Congo
+  democratic republic of the congo_1.png are predicted as Jersey: 1 times
+  6205.png, 6207.png, 6200.png, 6223.png, 6168.png, 6249.png, 6226.png, 6238.png, 6216.png, 6217.png, 6174.png, 6170.png, 6231.png, 6235.png, 6243.png, 6189.png are predicted as Republic of the Congo: 16 times
+  6232.png, 6219.png, 6263.png, 6244.png are predicted as DR Congo: 4 times
+  6225.png are predicted as Luxembourg: 1 times
+
+True Label: Croatia
+  14993.png, 15000.png, 14912.png, 14976.png, 14906.png, croatia_1.png, 14963.png, 14973.png, 14953.png, 14986.png, 14913.png, 14942.png, 14984.png, 14974.png, 14966.png, 14941.png, 15001.png are predicted as Croatia: 17 times
+  14970.png are predicted as India: 1 times
+  14994.png are predicted as Paraguay: 1 times
+  14936.png are predicted as Anguilla: 1 times
+  14987.png are predicted as Micronesia: 1 times
+  14918.png are predicted as Belarus: 1 times
+
+True Label: Ivory Coast
+  23000.png, 23018.png, 22998.png, 22989.png, 22997.png, 22994.png, 22952.png, 22950.png, 22945.png, 22972.png, 22942.png, 22965.png, 23012.png, 22961.png, 23001.png, 22985.png, 23013.png, 22951.png, 23022.png, côte d’ivoire_1.png, 22977.png are predicted as Ivory Coast: 21 times
+  23006.png are predicted as Sint Maarten: 1 times
+
+True Label: Bahrain
+  19353.png, 19293.png, 19362.png, 19302.png, 19283.png, 19277.png, 19272.png, 19298.png, 19321.png, 19336.png, 19365.png, 19348.png, 19287.png, 19311.png, bahrain_1.png, 19284.png are predicted as Bahrain: 16 times
+  19338.png are predicted as Chile: 1 times
+  19329.png are predicted as New Caledonia: 1 times
+  19355.png are predicted as Italy: 1 times
+  19290.png are predicted as China: 1 times
+  19333.png are predicted as Malta: 1 times
+  19366.png are predicted as Japan: 1 times
+
+True Label: South Korea
+  OIP.XbERPjatcIrmdWdR1S0UbwHaE0.png, 1469.png, 1435.png, 1398.png, 1407.png, south korea_1.png, 1436.png, 1419.png, 1468.png, 1384.png, 1418.png, 1393.png, 1415.png, 1399.png, 1428.png, 1425.png, 1472.png, 1453.png, 1396.png are predicted as South Korea: 19 times
+  1464.png are predicted as Saint Barthélemy: 1 times
+  1426.png are predicted as Cyprus: 1 times
+
+True Label: North Macedonia
+  10124.png, 10062.png, 10083.png, 10066.png, 10137.png, 10135.png, north macedonia_1.png, 10126.png, 10143.png, 10076.png, 10157.png, 10131.png, 10070.png, 10098.png, 10144.png, 10075.png, 10128.png, 10074.png, 10095.png are predicted as North Macedonia: 19 times
+  10108.png are predicted as Liberia: 1 times
+  10118.png are predicted as Åland Islands: 1 times
+  10133.png are predicted as Aruba: 1 times
+
+True Label: Japan
+  23382.png, 23348.png, 23383.png, 23406.png, 23369.png, 23377.png, 23408.png, 23419.png, 23403.png, 23357.png, japan_1.png, 23421.png, 23370.png, 23373.png, 23372.png, 23424.png, 23340.png, 23389.png, 23374.png are predicted as Japan: 19 times
+  23400.png are predicted as Mayotte: 1 times
+  23338.png are predicted as Bahrain: 1 times
+
+True Label: Saint Vincent and the Grenadines
+  24180.png, 24223.png, saint vincent and the grenadines_1.png, 24153.png, 24215.png, 24209.png, 24161.png, 24168.png, 24220.png, 24176.png, 24212.png, 24204.png, 24127.png, 24224.png, 24201.png, 24218.png are predicted as Saint Vincent and the Grenadines: 16 times
+  24139.png are predicted as Christmas Island: 1 times
+  24151.png are predicted as Micronesia: 1 times
+  24131.png are predicted as Afghanistan: 1 times
+  24178.png are predicted as Cyprus: 1 times
+  24205.png are predicted as Norfolk Island: 1 times
+  24144.png are predicted as Saudi Arabia: 1 times
+
+True Label: Romania
+  20042.png, 20010.png, 20064.png, 20068.png, 20020.png, 20041.png, 19972.png, 20044.png, 19980.png, 19999.png, 20037.png, 20027.png, 19975.png are predicted as Romania: 13 times
+  20019.png are predicted as Moldova: 1 times
+  19974.png are predicted as Martinique: 1 times
+  19981.png, 20031.png, romania_1.png are predicted as Chad: 3 times
+  20057.png, 20055.png are predicted as Andorra: 2 times
+  20017.png are predicted as Colombia: 1 times
+  20013.png are predicted as Barbados: 1 times
+
+True Label: Cape Verde
+  17224.png, 17217.png, 17216.png, 17261.png, 17256.png, 17236.png, 17290.png, cabo verde_1.png, 17276.png, 17213.png, 17214.png, 17300.png, 17269.png, 17295.png, 17238.png, 17250.png, 17245.png are predicted as Cape Verde: 17 times
+  17305.png are predicted as Uruguay: 1 times
+  17263.png are predicted as Haiti: 1 times
+  17282.png are predicted as Saint Barthélemy: 1 times
+  17272.png are predicted as Honduras: 1 times
+  17242.png are predicted as Curaçao: 1 times
+
+True Label: Falkland Islands
+  4353.png, 4302.png, 4342.png, 4333.png, 4339.png, 4328.png, 4359.png, 4325.png, 4344.png, 4371.png, 4377.png, 4295.png, 4338.png are predicted as Falkland Islands: 13 times
+  4289.png are predicted as Slovakia: 1 times
+  4282.png are predicted as Estonia: 1 times
+  4331.png are predicted as Guam: 1 times
+  4324.png are predicted as New Zealand: 1 times
+  4360.png, 4332.png are predicted as Pitcairn Islands: 2 times
+  4299.png are predicted as Cayman Islands: 1 times
+  4367.png are predicted as French Polynesia: 1 times
+
+True Label: Afghanistan
+  afghanistan_1.png, 14490.png, 14487.png, 14427.png, 14491.png, 14447.png, 14420.png, 14413.png, 14472.png, 14437.png, 14457.png, 14494.png, 14499.png, 14466.png, 14419.png, 14462.png, 14438.png, 14431.png, 14454.png, 14465.png, 14480.png are predicted as Afghanistan: 21 times
+  14476.png are predicted as Japan: 1 times
+
+True Label: Uruguay
+  3152.png, OIP.XbERPjatcIrmdWdR1S0UbwHaE0.png, 3174.png, 3112.png, 3168.png, 3173.png, 3113.png, 3141.png, 3147.png, 3130.png, 3094.png, 3149.png, 3138.png, 3111.png, uruguay_1.png, 3120.png, 3121.png are predicted as Uruguay: 17 times
+  3136.png are predicted as Lesotho: 1 times
+  3124.png are predicted as French Polynesia: 1 times
+  3127.png are predicted as Colombia: 1 times
+  3109.png are predicted as North Macedonia: 1 times
+
+True Label: El Salvador
+  8987.png, 9023.png, 8964.png, 9056.png, 9053.png, 8972.png, 9020.png, 9015.png, 9060.png, 8980.png, 9041.png, 9039.png, 8986.png, 8983.png, 8978.png, 9034.png are predicted as El Salvador: 16 times
+  9048.png are predicted as Argentina: 1 times
+  9032.png, 8990.png are predicted as Honduras: 2 times
+  8989.png, el salvador_1.png are predicted as Nicaragua: 2 times
+  9007.png are predicted as Israel: 1 times
+
+True Label: Armenia
+  OIP.XbERPjatcIrmdWdR1S0UbwHaE0.png, 1328.png, 1348.png, 1334.png, 1314.png, 1307.png, 1294.png, 1329.png, 1333.png, 1347.png, 1367.png, 1284.png, 1355.png, 1369.png, 1357.png, 1319.png, 1323.png, 1298.png, armenia_1.png, 1378.png, 1363.png are predicted as Armenia: 21 times
+  1324.png are predicted as Micronesia: 1 times
+
+True Label: United States
+  2346.png, 2376.png, 2280.png, 2338.png, 2283.png, 2313.png, 2316.png, 2314.png, 2294.png, 2296.png, 2303.png, 2363.png are predicted as United States: 12 times
+  2358.png, 2359.png are predicted as United States Minor Outlying Islands: 2 times
+  2354.png are predicted as Puerto Rico: 1 times
+  2332.png are predicted as Uzbekistan: 1 times
+  2362.png are predicted as Israel: 1 times
+  2290.png are predicted as Chile: 1 times
+  2331.png are predicted as Samoa: 1 times
+  2306.png are predicted as Liberia: 1 times
+  2282.png are predicted as Haiti: 1 times
+  united states of america_1.png are predicted as Poland: 1 times
+
+True Label: Chad
+  7360.png, 7331.png, 7291.png, 7295.png, 7338.png, 7279.png, 7280.png, 7289.png, 7333.png, 7268.png, 7298.png, 7271.png, 7352.png, 7282.png, chad_1.png, 7317.png, 7299.png, 7346.png, 7355.png, 7270.png, 7293.png are predicted as Chad: 21 times
+  7296.png are predicted as Romania: 1 times
+
+True Label: Uzbekistan
+  21609.png, 21589.png, 21597.png, 21612.png, 21666.png, 21649.png, 21639.png, 21659.png, 21583.png, uzbekistan_1.png, 21614.png, 21635.png, 21669.png, 21598.png, 21644.png, 21657.png, 21618.png, 21617.png, 21616.png, 21628.png, 21633.png are predicted as Uzbekistan: 21 times
+  21622.png are predicted as Djibouti: 1 times
+
+True Label: Nicaragua
+  18850.png, 18874.png, 18866.png, 18817.png, 18869.png, 18806.png, 18844.png, 18870.png, 18863.png, 18854.png, 18845.png, 18811.png, 18827.png are predicted as Nicaragua: 13 times
+  nicaragua_1.png are predicted as Argentina: 1 times
+  18888.png, 18882.png, 18809.png, 18883.png, 18862.png are predicted as El Salvador: 5 times
+  18826.png are predicted as Honduras: 1 times
+  18815.png are predicted as Greece: 1 times
+
+True Label: Lithuania
+  23440.png, 23434.png, 23467.png, 23439.png, 23506.png, 23525.png, 23489.png, 23502.png, 23452.png, 23468.png, 23521.png, 23515.png, 23449.png, 23457.png, 23513.png, 23464.png are predicted as Lithuania: 16 times
+  23492.png are predicted as Myanmar: 1 times
+  lithuania_1.png, 23500.png are predicted as Bulgaria: 2 times
+  23507.png are predicted as Saint Kitts and Nevis: 1 times
+  23509.png are predicted as Hong Kong: 1 times
+  23484.png are predicted as Mauritania: 1 times
+
+True Label: Christmas Island
+  1507.png, 1561.png, 1512.png, 1515.png, 1509.png, 1569.png, 1534.png, 1531.png, 1559.png, 1521.png, 1536.png, 1493.png are predicted as Christmas Island: 12 times
+  1552.png are predicted as Mauritania: 1 times
+  1545.png are predicted as Finland: 1 times
+  1519.png, 1501.png are predicted as Norfolk Island: 2 times
+  1573.png are predicted as French Southern and Antarctic Lands: 1 times
+  1554.png are predicted as British Indian Ocean Territory: 1 times
+  1506.png are predicted as Netherlands: 1 times
+  1547.png are predicted as Saint Barthélemy: 1 times
+  1491.png are predicted as Guadeloupe: 1 times
+
+True Label: Equatorial Guinea
+  17057.png, 17029.png, 17011.png, 17012.png are predicted as Guinea: 4 times
+  17047.png, 17054.png, 17070.png, 17040.png, equatorial guinea_1.png, 17092.png, 17074.png, 17026.png, 17015.png, 17055.png, 17028.png, 17065.png, 17063.png, 17008.png, 17091.png, 17061.png are predicted as Equatorial Guinea: 16 times
+  17102.png are predicted as Italy: 1 times
+  17080.png are predicted as Cyprus: 1 times
+
+True Label: Iceland
+  5355.png, 5409.png, 5390.png, 5394.png, 5389.png, 5337.png, 5357.png, 5358.png, 5385.png, 5373.png, 5395.png, 5386.png, 5381.png, 5354.png, iceland_1.png, 5400.png, 5333.png, 5348.png, 5365.png, 5393.png are predicted as Iceland: 20 times
+  5398.png are predicted as Algeria: 1 times
+  5388.png are predicted as Ghana: 1 times
+
+True Label: Venezuela
+  9390.png are predicted as Slovakia: 1 times
+  9373.png, 9456.png, 9446.png, 9449.png, 9409.png, 9376.png, 9432.png, 9424.png, 9451.png, 9408.png, 9438.png, 9387.png, 9427.png, 9454.png, 9371.png, 9418.png are predicted as Venezuela: 16 times
+  9428.png are predicted as Chile: 1 times
+  9367.png are predicted as Colombia: 1 times
+  venezuela_1.png are predicted as Russia: 1 times
+  9419.png are predicted as Saint Kitts and Nevis: 1 times
+  9401.png are predicted as Liechtenstein: 1 times
+
+True Label: Vatican City
+  OIP.XbERPjatcIrmdWdR1S0UbwHaE0.png, 6018.png, 5989.png, 6042.png, 5999.png, 6054.png, 6061.png, 6004.png, 6040.png, vatican city_1.png, 6003.png, 6056.png, 5973.png, 6016.png, 5995.png, 6022.png, 6011.png, 6057.png, 5996.png, 6034.png, 5971.png, 6000.png are predicted as Vatican City: 22 times
+
+True Label: Morocco
+  8514.png are predicted as Togo: 1 times
+  8507.png are predicted as Liberia: 1 times
+  8489.png, 8555.png, 8548.png, 8478.png, 8515.png, 8465.png, 8542.png, 8512.png, 8481.png, 8484.png, 8497.png, 8469.png, 8517.png, 8528.png, 8480.png, 8510.png are predicted as Morocco: 16 times
+  morocco_1.png, 8482.png, 8559.png are predicted as China: 3 times
+  8495.png are predicted as Albania: 1 times
+
+True Label: Mayotte
+  14868.png, 14812.png, 14897.png, 14877.png, 14829.png, 14809.png, 14866.png, 14902.png, 14888.png, 14904.png, 14894.png, 14832.png, 14895.png, 14839.png, 14847.png, 14883.png, 14836.png, 14875.png, 14878.png are predicted as Mayotte: 19 times
+  14817.png are predicted as France: 1 times
+  14848.png are predicted as Liechtenstein: 1 times
+
+True Label: Cocos (Keeling) Islands
+  4805.png, 4836.png are predicted as Heard Island and McDonald Islands: 2 times
+  4869.png, 4852.png, 4802.png, 4854.png, 4810.png, 4863.png, 4826.png, 4830.png, 4817.png, 4783.png, 4816.png, 4821.png, 4801.png, 4862.png, 4798.png, 4815.png, 4825.png, 4858.png are predicted as Cocos (Keeling) Islands: 18 times
+  4855.png are predicted as French Guiana: 1 times
+
+True Label: Thailand
+  4051.png, thailand_1.png, 4003.png, 4074.png, 3998.png, 4008.png, 4001.png, 4048.png, 4022.png, 3983.png, 3993.png, 4005.png, 3995.png, 3991.png, 4049.png, 4043.png, 3994.png, 4031.png, 4038.png, 4071.png are predicted as Thailand: 20 times
+  4066.png are predicted as Antarctica: 1 times
+  4014.png are predicted as Lebanon: 1 times
+
+True Label: Colombia
+  5802.png, OIP.XbERPjatcIrmdWdR1S0UbwHaE0.png, 5773.png, 5745.png, 5799.png, 5756.png, 5777.png, 5827.png, 5733.png, 5829.png, 5750.png, 5768.png, 5810.png, 5824.png, colombia_1.png, 5804.png, 5808.png are predicted as Colombia: 17 times
+  5784.png are predicted as Christmas Island: 1 times
+  5801.png, 5820.png are predicted as Venezuela: 2 times
+  5737.png are predicted as Papua New Guinea: 1 times
+
+True Label: French Guiana
+  10563.png, 10639.png, 10637.png, 10634.png, 10553.png, 10622.png, 10548.png, 10557.png, 10611.png, 10561.png, 10545.png, 10605.png, 10608.png, 10642.png are predicted as French Guiana: 14 times
+  10626.png, 10624.png are predicted as Guyana: 2 times
+  10612.png, 10609.png are predicted as France: 2 times
+  10631.png are predicted as French Southern and Antarctic Lands: 1 times
+  10604.png are predicted as Ivory Coast: 1 times
+  10579.png are predicted as Cyprus: 1 times
+
+True Label: Greenland
+  9273.png, 9334.png, 9329.png, 9314.png, 9268.png, 9291.png, 9357.png, 9284.png, 9302.png, 9282.png, 9343.png, 9287.png, 9344.png, 9312.png are predicted as Greenland: 14 times
+  9293.png are predicted as Cape Verde: 1 times
+  9316.png are predicted as Kosovo: 1 times
+  9279.png are predicted as Colombia: 1 times
+  9322.png are predicted as Vatican City: 1 times
+  9280.png are predicted as Switzerland: 1 times
+  9304.png are predicted as Cyprus: 1 times
+  9328.png are predicted as Finland: 1 times
+
+True Label: Zambia
+  12760.png are predicted as Mauritania: 1 times
+  OIP.XbERPjatcIrmdWdR1S0UbwHaE0.png, 12746.png, 12780.png, 12795.png, 12751.png, 12807.png, 12808.png, 12756.png, 12774.png, 12822.png, 12778.png, 12769.png, 12752.png, 12788.png, 12784.png, 12772.png, 12802.png are predicted as Zambia: 17 times
+  12758.png are predicted as Saint Kitts and Nevis: 1 times
+  12763.png are predicted as Christmas Island: 1 times
+  zambia_1.png are predicted as Sri Lanka: 1 times
+  12838.png are predicted as Portugal: 1 times
+
+True Label: South Sudan
+  14173.png, 14157.png, south sudan_1.png, 14167.png, 14126.png, 14200.png, 14164.png, 14119.png, 14198.png, 14142.png, 14128.png are predicted as South Sudan: 11 times
+  14134.png are predicted as Ethiopia: 1 times
+  14155.png, 14116.png, 14182.png, 14178.png, 14146.png, 14144.png, 14190.png are predicted as Sudan: 7 times
+  14132.png are predicted as Andorra: 1 times
+  14156.png are predicted as United Arab Emirates: 1 times
+  14188.png are predicted as Cape Verde: 1 times
+
+True Label: United Kingdom
+  5187.png, 5133.png, 5190.png, 5147.png, 5193.png, 5145.png, 5176.png, 5209.png, 5204.png, 5220.png, 5144.png, 5135.png, 5167.png, 5191.png, 5223.png, 5161.png, 5162.png are predicted as United Kingdom: 17 times
+  5149.png are predicted as Costa Rica: 1 times
+  5182.png are predicted as Kiribati: 1 times
+  5175.png are predicted as Croatia: 1 times
+  united kingdom_1.png are predicted as Dominica: 1 times
+  5212.png are predicted as Zimbabwe: 1 times
+
+True Label: Mozambique
+  24408.png, OIP.XbERPjatcIrmdWdR1S0UbwHaE0.png, 24383.png, mozambique_1.png, 24374.png, 24346.png, 24338.png, 24349.png, 24419.png, 24369.png, 24333.png, 24411.png, 24345.png, 24371.png, 24416.png, 24344.png, 24353.png, 24366.png are predicted as Mozambique: 18 times
+  24424.png are predicted as Uganda: 1 times
+  24375.png are predicted as Cyprus: 1 times
+  24422.png are predicted as Colombia: 1 times
+  24331.png are predicted as Saint Lucia: 1 times
+
+True Label: Peru
+  peru_1.png, 6587.png, 6663.png, 6612.png, 6567.png, 6570.png, 6577.png, 6609.png, 6603.png, 6568.png, 6616.png, 6610.png, 6659.png, 6580.png, 6571.png, 6653.png, 6594.png, 6597.png, 6590.png are predicted as Peru: 19 times
+  6654.png are predicted as Morocco: 1 times
+  6592.png are predicted as Suriname: 1 times
+  6589.png are predicted as Hong Kong: 1 times
+
+True Label: Faroe Islands
+  94.png, 37.png, 35.png, 75.png, 97.png, 31.png, 40.png, 50.png, 59.png, 83.png, 82.png, 36.png, 12.png, 67.png, 17.png, 53.png, 52.png, 16.png, 88.png, 99.png are predicted as Faroe Islands: 20 times
+  76.png are predicted as Egypt: 1 times
+
+True Label: Western Sahara
+  3550.png, 3478.png, 3523.png, 3489.png, 3486.png, 3491.png, 3564.png, 3576.png, 3555.png, 3504.png are predicted as Western Sahara: 10 times
+  3510.png are predicted as Malawi: 1 times
+  3497.png, 3483.png, 3533.png are predicted as Palestine: 3 times
+  3488.png are predicted as Jordan: 1 times
+  3548.png are predicted as Tajikistan: 1 times
+  3503.png are predicted as Latvia: 1 times
+  3557.png are predicted as Lesotho: 1 times
+  3547.png are predicted as Pakistan: 1 times
+  3487.png are predicted as Croatia: 1 times
+  3521.png are predicted as American Samoa: 1 times
+
+True Label: Grenada
+  21790.png are predicted as Guinea: 1 times
+  21864.png, 21797.png, 21777.png, 21856.png, 21851.png, 21771.png, 21786.png, 21823.png, 21794.png, 21792.png, 21807.png, 21799.png, 21849.png, grenada_1.png, 21835.png, 21770.png are predicted as Grenada: 16 times
+  21788.png are predicted as Guadeloupe: 1 times
+  21841.png are predicted as São Tomé and Príncipe: 1 times
+  21832.png are predicted as Mauritania: 1 times
+  21813.png are predicted as Bermuda: 1 times
+  21844.png are predicted as Croatia: 1 times
+
+True Label: Panama
+  1590.png, 1673.png, 1598.png, 1616.png, 1650.png, 1583.png, 1656.png, 1665.png, 1623.png, 1655.png, panama_1.png, 1607.png, 1631.png, 1677.png, 1642.png, 1592.png, 1602.png are predicted as Panama: 17 times
+  1593.png are predicted as Kosovo: 1 times
+  1587.png are predicted as Cayman Islands: 1 times
+  1595.png are predicted as Croatia: 1 times
+  1620.png are predicted as Svalbard and Jan Mayen: 1 times
+  1588.png are predicted as Micronesia: 1 times
+
+True Label: Puerto Rico
+  7445.png, 7396.png, 7447.png, 7415.png, 7388.png, 7421.png, 7464.png, 7420.png, 7422.png, 7376.png, 7381.png, 7431.png, 7409.png, 7440.png, 7404.png, 7430.png, 7379.png, 7457.png, 7401.png, 7410.png, 7460.png are predicted as Puerto Rico: 21 times
+
+True Label: Suriname
+  15065.png, 15105.png, OIP.XbERPjatcIrmdWdR1S0UbwHaE0.png, 15038.png, 15019.png, 15097.png, 15039.png, 15100.png, 15085.png, 15094.png, 15050.png, 15010.png, 15052.png, 15045.png, 15023.png, 15098.png, suriname_1.png, 15051.png, 15042.png, 15072.png are predicted as Suriname: 20 times
+  15014.png are predicted as Eritrea: 1 times
+  15089.png are predicted as Tuvalu: 1 times
+
+True Label: South Georgia
+  14588.png, 14536.png, 14563.png, 14554.png, 14522.png, 14605.png, 14552.png, 14580.png, 14524.png, 14546.png, 14560.png, 14568.png, 14538.png, 14601.png are predicted as Georgia: 14 times
+  14547.png are predicted as Jersey: 1 times
+  14509.png are predicted as Libya: 1 times
+  14512.png are predicted as British Virgin Islands: 1 times
+  14545.png are predicted as Guernsey: 1 times
+  14592.png are predicted as Belize: 1 times
+  14556.png, 14572.png are predicted as South Georgia: 2 times
+
+True Label: Caribbean Netherlands
+  19617.png are predicted as Saint Barthélemy: 1 times
+  19646.png, 19578.png, 19608.png, 19588.png, 19584.png, 19659.png, 19639.png, 19661.png are predicted as Netherlands: 8 times
+  19651.png are predicted as Antigua and Barbuda: 1 times
+  19579.png, 19590.png, 19599.png, 19604.png, 19610.png are predicted as Caribbean Netherlands: 5 times
+  19593.png are predicted as Antarctica: 1 times
+  19640.png are predicted as Estonia: 1 times
+  19664.png are predicted as Ireland: 1 times
+  19637.png are predicted as Svalbard and Jan Mayen: 1 times
+  19612.png, 19662.png are predicted as Luxembourg: 2 times
+
+True Label: Austria
+  8951.png, 8954.png, 8924.png, 8918.png, 8960.png, 8867.png, 8901.png, 8938.png, 8895.png, 8866.png, 8910.png, austria_1.png, 8909.png, 8935.png, 8875.png, 8882.png, 8943.png, 8886.png, 8953.png, 8937.png, 8904.png are predicted as Austria: 21 times
+  8890.png are predicted as Philippines: 1 times
+
+True Label: Curaçao
+  18356.png, 18358.png are predicted as Cape Verde: 2 times
+  OIP.XbERPjatcIrmdWdR1S0UbwHaE0.png, 18365.png, 18405.png, 18337.png, 18318.png, 18400.png, 18367.png, 18355.png, 18370.png, 18359.png, 18319.png, 18380.png are predicted as Curaçao: 12 times
+  18396.png are predicted as Uzbekistan: 1 times
+  18350.png are predicted as Northern Mariana Islands: 1 times
+  18369.png are predicted as Saint Barthélemy: 1 times
+  18346.png are predicted as Antarctica: 1 times
+  18386.png are predicted as French Southern and Antarctic Lands: 1 times
+  18385.png are predicted as Spain: 1 times
+
+True Label: Réunion
+  24454.png, 24467.png are predicted as Mayotte: 2 times
+  24477.png, 24470.png, 24453.png, 24446.png, 24460.png, 24431.png, 24444.png, 24509.png, 24496.png, 24472.png, 24523.png, 24448.png, 24487.png, 24484.png are predicted as Réunion: 14 times
+  24488.png are predicted as Hungary: 1 times
+  24494.png are predicted as Fiji: 1 times
+  24486.png are predicted as Liechtenstein: 1 times
+  24520.png are predicted as Martinique: 1 times
+  24474.png are predicted as Svalbard and Jan Mayen: 1 times
+
+True Label: Palestine
+  10977.png, 10984.png, 11039.png, 10993.png are predicted as Western Sahara: 4 times
+  10978.png, 10987.png, 11007.png, 11005.png, 10975.png, 10965.png, palestine_1.png, 11041.png, 10963.png, 11033.png, 10973.png, 11042.png, 10964.png are predicted as Palestine: 13 times
+  10985.png are predicted as Mozambique: 1 times
+  11017.png, 11028.png are predicted as Jordan: 2 times
+  11018.png are predicted as Egypt: 1 times
+  11037.png are predicted as Azerbaijan: 1 times
+
+True Label: Belgium
+  791.png, 796.png, 863.png, 847.png, 819.png, 880.png, 785.png, 856.png, 829.png, 835.png, 827.png, 838.png, 802.png, belgium_1.png, 878.png, 843.png, 824.png, 837.png are predicted as Belgium: 18 times
+  820.png are predicted as Singapore: 1 times
+  816.png are predicted as Mexico: 1 times
+  813.png are predicted as Barbados: 1 times
+  850.png are predicted as Colombia: 1 times
+
+True Label: Israel
+  21398.png, israel_1.png, 21468.png, 21391.png, 21371.png, 21385.png, 21407.png, 21446.png, 21419.png, 21392.png, 21467.png, 21405.png, 21457.png, 21465.png, 21386.png, 21438.png, 21426.png are predicted as Israel: 17 times
+  OIP.XbERPjatcIrmdWdR1S0UbwHaE0.png, 21370.png are predicted as Caribbean Netherlands: 2 times
+  21384.png are predicted as Honduras: 1 times
+  21462.png are predicted as Argentina: 1 times
+  21414.png are predicted as Heard Island and McDonald Islands: 1 times
+
+True Label: Malta
+  15487.png, 15417.png, 15441.png, 15474.png, 15409.png, 15415.png, 15486.png, 15494.png, 15503.png, 15465.png, malta_1.png, 15483.png, 15482.png, 15413.png, 15461.png, 15421.png, 15414.png are predicted as Malta: 17 times
+  15437.png are predicted as Kosovo: 1 times
+  15476.png are predicted as Canada: 1 times
+  15504.png are predicted as Bahrain: 1 times
+  15440.png are predicted as Isle of Man: 1 times
+
+True Label: Marshall Islands
+  3217.png, 3262.png, 3189.png, 3255.png, 3235.png, 3242.png, 3186.png, 3192.png, marshall islands_1.png, 3199.png, 3236.png, 3270.png, 3185.png, 3212.png, 3245.png, 3178.png, 3180.png, 3203.png, 3196.png, 3256.png, 3224.png, 3266.png are predicted as Marshall Islands: 22 times
+
+True Label: Turkmenistan
+  21512.png, 21564.png, 21501.png, 21510.png, 21477.png, 21530.png, 21497.png, 21545.png, 21525.png, 21532.png, 21560.png, 21562.png, 21488.png, 21524.png, 21514.png, 21536.png, 21533.png, 21494.png, 21473.png, 21505.png, turkmenistan_1.png are predicted as Turkmenistan: 21 times
+  21542.png are predicted as Pakistan: 1 times
+
+True Label: Latvia
+  7197.png, 7257.png, 7255.png, 7216.png, 7175.png, 7196.png, 7265.png, 7188.png, 7185.png, 7179.png, 7252.png, 7211.png, 7178.png, 7248.png, 7225.png, 7221.png, 7192.png, latvia_1.png, 7174.png are predicted as Latvia: 19 times
+  7236.png are predicted as Kiribati: 1 times
+  7205.png are predicted as Denmark: 1 times
+  7245.png are predicted as Svalbard and Jan Mayen: 1 times
+
+True Label: Tanzania
+  tanzania_1.png, 7800.png, 7770.png, 7848.png, 7808.png, 7790.png, 7839.png, 7859.png, 7769.png, 7812.png, 7846.png, 7798.png, 7802.png, 7793.png, 7781.png, 7771.png, 7828.png, 7816.png, 7821.png are predicted as Tanzania: 19 times
+  7836.png are predicted as Solomon Islands: 1 times
+  7826.png are predicted as Zambia: 1 times
+
+True Label: Liberia
+  24311.png are predicted as Cocos (Keeling) Islands: 1 times
+  24255.png, 24306.png, 24268.png, 24316.png, 24244.png, 24261.png, 24305.png, 24326.png, 24281.png, 24320.png, 24247.png, 24237.png, 24299.png are predicted as Liberia: 13 times
+  24241.png are predicted as Singapore: 1 times
+  24293.png are predicted as Argentina: 1 times
+  liberia_1.png, 24286.png, 24251.png, 24256.png, 24300.png are predicted as United States: 5 times
+  24312.png are predicted as Nepal: 1 times
+
+True Label: Botswana
+  4518.png, 4536.png, 4555.png, 4543.png, 4550.png, 4577.png, botswana_1.png, 4535.png, 4503.png, 4565.png, 4521.png, 4499.png, 4528.png, 4495.png, 4502.png, 4510.png, 4561.png, 4481.png are predicted as Botswana: 18 times
+  4527.png are predicted as Kazakhstan: 1 times
+  4562.png are predicted as Estonia: 1 times
+  4570.png are predicted as French Southern and Antarctic Lands: 1 times
+  4504.png are predicted as Fiji: 1 times
+
+True Label: Dominican Republic
+  dominican republic_1.png, 15833.png, 15886.png, 15894.png, 15888.png, 15883.png, 15870.png, 15829.png, 15890.png, 15868.png, 15881.png, 15904.png, 15879.png, 15817.png, 15827.png, 15866.png, 15902.png, 15880.png, 15821.png are predicted as Dominican Republic: 19 times
+  15905.png are predicted as Syria: 1 times
+  15818.png are predicted as Namibia: 1 times
+  15846.png are predicted as Guinea-Bissau: 1 times
+
+True Label: Brazil
+  16403.png, 16404.png, 16397.png, 16321.png, 16358.png, 16388.png, 16385.png, 16345.png, 16327.png, 16343.png, 16368.png, 16313.png, 16344.png, 16339.png, 16389.png, 16380.png, 16353.png, 16335.png, 16336.png, 16374.png, 16378.png are predicted as Brazil: 21 times
+  brazil_1.png are predicted as Jersey: 1 times
+
+True Label: Tajikistan
+  20381.png, 20446.png, 20452.png, tajikistan_1.png, 20440.png, 20392.png, 20371.png, 20376.png, 20415.png, 20387.png, 20460.png, 20405.png, 20450.png, 20436.png, 20418.png, 20377.png, 20427.png are predicted as Tajikistan: 17 times
+  20461.png are predicted as Kiribati: 1 times
+  20397.png are predicted as Paraguay: 1 times
+  20384.png are predicted as Uzbekistan: 1 times
+  20409.png are predicted as San Marino: 1 times
+  20439.png are predicted as Iraq: 1 times
+
+True Label: Bahamas
+  2607.png, 2594.png, 2613.png, 2603.png, 2629.png, 2630.png, 2597.png, 2674.png, 2655.png, 2595.png, 2648.png, 2581.png, bahamas_1.png, 2665.png, 2662.png, 2600.png, 2639.png, 2583.png, 2627.png are predicted as Bahamas: 19 times
+  2672.png are predicted as Nigeria: 1 times
+  2656.png are predicted as San Marino: 1 times
+  2646.png are predicted as Kosovo: 1 times
+
+True Label: Central African Republic
+  19113.png, 19169.png, 19108.png, 19138.png, 19163.png, 19142.png, 19110.png, central african republic_1.png, 19129.png, 19155.png, 19160.png, 19123.png are predicted as Central African Republic: 12 times
+  19135.png, 19128.png are predicted as Cyprus: 2 times
+  19164.png are predicted as San Marino: 1 times
+
+True Label: Jordan
+  350.png, 348.png, jordan_1.png, 376.png, 315.png, 322.png, 357.png, 395.png, 301.png, 336.png, 368.png, 366.png, 308.png, 305.png, 304.png are predicted as Jordan: 15 times
+  353.png, 370.png are predicted as Palestine: 2 times
+  397.png are predicted as Western Sahara: 1 times
+  375.png are predicted as Grenada: 1 times
+  365.png are predicted as Eswatini: 1 times
+  381.png are predicted as Cuba: 1 times
+
+True Label: Libya
+  11901.png, libya_1.png, 11853.png, 11898.png, 11902.png, 11858.png, 11897.png, 11942.png, 11878.png, 11844.png, 11876.png, 11890.png, 11865.png, 11921.png, 11916.png, 11880.png, 11931.png are predicted as Libya: 17 times
+  11932.png are predicted as Grenada: 1 times
+  11933.png are predicted as Bangladesh: 1 times
+  11929.png are predicted as Turkmenistan: 1 times
+  11936.png are predicted as Vietnam: 1 times
+  11868.png are predicted as Estonia: 1 times
+
+True Label: Nigeria
+  nigeria_1.png are predicted as Bhutan: 1 times
+  5052.png, 5045.png, 4991.png, 5029.png, 5067.png, 5048.png, 5013.png, 4993.png, 5063.png, 4994.png, 5059.png, 5044.png, 5008.png, 5026.png, 5074.png, 5005.png, 4983.png, 5020.png, 5041.png, 5037.png are predicted as Nigeria: 20 times
+  5042.png are predicted as Afghanistan: 1 times
+
+True Label: Niue
+  11070.png, 11100.png, OIP.XbERPjatcIrmdWdR1S0UbwHaE0.png, 11079.png, 11071.png, 11132.png, 11092.png, 11126.png, 11088.png, 11057.png, 11096.png, 11116.png, 11043.png, 11048.png, 11054.png, 11075.png, 11052.png, 11138.png are predicted as Niue: 18 times
+  11073.png are predicted as Bermuda: 1 times
+  11050.png are predicted as Vatican City: 1 times
+  11067.png are predicted as Taiwan: 1 times
+
+True Label: Syria
+  10054.png are predicted as Netherlands: 1 times
+  OIP.XbERPjatcIrmdWdR1S0UbwHaE0.png, syria_1.png, 9968.png, 10022.png, 10009.png, 10013.png, 10036.png, 10019.png, 10043.png, 9988.png, 9999.png, 10005.png, 9979.png, 10046.png, 10033.png, 10012.png, 10044.png are predicted as Syria: 17 times
+  10017.png are predicted as Iraq: 1 times
+  9967.png are predicted as Angola: 1 times
+  9987.png are predicted as Heard Island and McDonald Islands: 1 times
+
+True Label: Sint Maarten
+  11999.png, 12016.png, 12018.png, 11963.png, 11996.png, 11956.png, 11984.png, 11946.png, 12028.png, 11964.png, 11950.png, 12027.png, 11977.png are predicted as Sint Maarten: 13 times
+  12012.png, 11974.png, 11994.png, 11983.png, 11985.png, 11986.png are predicted as Saint Martin: 6 times
+  12033.png are predicted as Madagascar: 1 times
+  12021.png are predicted as Jersey: 1 times
+
+True Label: Nepal
+  22886.png, 22870.png, 22881.png, 22860.png, 22842.png, nepal_1.png, 22928.png, 22865.png, 22834.png, 22868.png, 22838.png, 22853.png, 22877.png, 22847.png, 22898.png, 22882.png are predicted as Nepal: 16 times
+  22906.png are predicted as Iraq: 1 times
+  22861.png are predicted as Libya: 1 times
+  22856.png are predicted as Iceland: 1 times
+  22863.png are predicted as British Indian Ocean Territory: 1 times
+  22889.png are predicted as Christmas Island: 1 times
+  22850.png are predicted as Cuba: 1 times
+
+True Label: Taiwan
+  677.png, 628.png, 681.png, 605.png, 608.png, 683.png, 661.png, 667.png, 680.png, 616.png, 638.png, 695.png, 697.png, 636.png, 665.png, 624.png, 606.png, 652.png, taiwan_1.png, 659.png are predicted as Taiwan: 20 times
+  651.png are predicted as Canada: 1 times
+  676.png are predicted as Slovakia: 1 times
+
+True Label: Guyana
+  12204.png, OIP.XbERPjatcIrmdWdR1S0UbwHaE0.png, 12149.png, 12211.png, 12218.png, 12221.png, 12142.png, 12187.png, 12174.png, 12237.png, 12176.png, 12210.png, 12209.png, 12222.png, 12208.png, 12241.png are predicted as Guyana: 16 times
+  12144.png, 12152.png are predicted as French Guiana: 2 times
+  12192.png are predicted as Palestine: 1 times
+  guyana_1.png are predicted as Eswatini: 1 times
+  12238.png are predicted as Algeria: 1 times
+  12207.png are predicted as Norfolk Island: 1 times
+
+True Label: Portugal
+  20474.png, 20527.png, 20489.png, 20533.png, 20522.png, 20544.png, 20534.png, portugal_1.png, 20561.png, 20484.png, 20512.png, 20537.png, 20472.png, 20540.png, 20558.png, 20494.png, 20555.png, 20476.png are predicted as Portugal: 18 times
+  20488.png are predicted as Afghanistan: 1 times
+  20553.png are predicted as Bhutan: 1 times
+  20487.png are predicted as Algeria: 1 times
+  20530.png are predicted as Papua New Guinea: 1 times
+
+True Label: North Korea
+  OIP.XbERPjatcIrmdWdR1S0UbwHaE0.png, 763.png, 701.png, 746.png, north korea_1.png, 742.png, 776.png are predicted as North Korea: 7 times
+  727.png, 739.png are predicted as Azerbaijan: 2 times
+  747.png are predicted as United States Minor Outlying Islands: 1 times
+  705.png are predicted as Costa Rica: 1 times
+  774.png are predicted as Brunei: 1 times
+  724.png are predicted as Luxembourg: 1 times
+  712.png, 728.png are predicted as South Korea: 2 times
+  720.png are predicted as Israel: 1 times
+  758.png are predicted as Canada: 1 times
+  765.png are predicted as Tonga: 1 times
+
+True Label: Hong Kong
+  18674.png, 18611.png, 18664.png, 18669.png, 18609.png, 18642.png, 18655.png, 18679.png, 18612.png, 18673.png, 18620.png, 18659.png, 18633.png, 18658.png, 18693.png are predicted as Hong Kong: 15 times
+  18645.png are predicted as Kosovo: 1 times
+  18691.png are predicted as San Marino: 1 times
+  18631.png are predicted as Japan: 1 times
+  18626.png are predicted as Austria: 1 times
+  18640.png are predicted as Isle of Man: 1 times
+  18648.png are predicted as Tunisia: 1 times
+
+True Label: Guinea-Bissau
+  15341.png, 15309.png, 15369.png, OIP.XbERPjatcIrmdWdR1S0UbwHaE0.png, 15378.png, 15323.png, 15339.png, 15384.png, 15357.png, 15329.png, 15359.png, 15331.png are predicted as Guinea-Bissau: 12 times
+  15389.png are predicted as Svalbard and Jan Mayen: 1 times
+  15348.png, 15312.png, 15314.png are predicted as Guinea: 3 times
+  15356.png are predicted as Senegal: 1 times
+  15343.png are predicted as São Tomé and Príncipe: 1 times
+  15373.png are predicted as French Guiana: 1 times
+  guinea-bissau_1.png are predicted as Niue: 1 times
+  15374.png are predicted as Sweden: 1 times
+  15363.png are predicted as Bermuda: 1 times
+
+True Label: United Arab Emirates
+  12356.png, 12344.png, 12368.png, 12364.png, united arab emirates_1.png, 12406.png, 12440.png, 12396.png, 12358.png, 12352.png, 12418.png, 12379.png, 12427.png, 12413.png, 12402.png, 12420.png, 12382.png, 12371.png, 12419.png are predicted as United Arab Emirates: 19 times
+  12353.png are predicted as Saint Lucia: 1 times
+  12377.png are predicted as Sudan: 1 times
+
+True Label: Burkina Faso
+  6921.png, OIP.XbERPjatcIrmdWdR1S0UbwHaE0.png, 6889.png, 6915.png, 6952.png, 6924.png, 6930.png, 6926.png, 6935.png, 6940.png, 6942.png, 6945.png, 6961.png, 6872.png, 6965.png, 6901.png, 6870.png, 6884.png, 6929.png, burkina faso_1.png, 6881.png are predicted as Burkina Faso: 21 times
+  6893.png are predicted as Turkmenistan: 1 times
+
+True Label: Tunisia
+  18184.png, tunisia_1.png are predicted as Hong Kong: 2 times
+  18176.png, 18131.png, 18167.png, 18126.png, 18169.png, 18198.png, 18152.png, 18205.png, 18158.png, 18134.png, 18114.png, 18143.png, 18201.png, 18132.png, 18116.png, 18196.png, 18178.png are predicted as Tunisia: 17 times
+  18144.png are predicted as Switzerland: 1 times
+  18156.png are predicted as Isle of Man: 1 times
+  18142.png are predicted as Singapore: 1 times
+
+True Label: Pitcairn Islands
+  22582.png are predicted as Cayman Islands: 1 times
+  22584.png are predicted as Turks and Caicos Islands: 1 times
+  22599.png are predicted as Falkland Islands: 1 times
+  22571.png, 22572.png, 22587.png, 22573.png are predicted as Pitcairn Islands: 4 times
+  22618.png are predicted as Angola: 1 times
+  22583.png, 22620.png are predicted as Montserrat: 2 times
+  22617.png, 22613.png are predicted as French Southern and Antarctic Lands: 2 times
+  22594.png are predicted as Antarctica: 1 times
+
+True Label: Cyprus
+  2015.png, 2042.png are predicted as Jersey: 2 times
+  2064.png are predicted as Lebanon: 1 times
+  2069.png, 2028.png, 2053.png, 2007.png, 2044.png, 2060.png, 2059.png, 2072.png, cyprus_1.png, 2029.png, 2062.png, 2022.png, 1985.png, 2010.png, 2056.png, 2055.png are predicted as Cyprus: 16 times
+  2075.png are predicted as Colombia: 1 times
+  1982.png are predicted as Honduras: 1 times
+  2018.png are predicted as Kosovo: 1 times
+
+True Label: Denmark
+  3960.png, 3971.png, 3879.png, 3967.png, 3940.png, denmark_1.png, 3975.png, 3904.png, 3914.png, 3885.png, 3946.png, 3908.png, 3972.png, 3913.png, 3889.png, 3892.png, 3937.png, 3926.png are predicted as Denmark: 18 times
+  3912.png are predicted as Cyprus: 1 times
+  3951.png are predicted as Gibraltar: 1 times
+  3900.png are predicted as Latvia: 1 times
+  3891.png are predicted as Austria: 1 times
+
+True Label: Philippines
+  9246.png, 9243.png, 9186.png, 9165.png, 9239.png, 9171.png, 9210.png, 9183.png, 9200.png, 9244.png, 9194.png, philippines_1.png, 9168.png, 9227.png, 9208.png, 9170.png are predicted as Philippines: 16 times
+  9214.png are predicted as Cayman Islands: 1 times
+  9254.png are predicted as Zimbabwe: 1 times
+  9187.png are predicted as Mayotte: 1 times
+  9248.png are predicted as Bhutan: 1 times
+  9169.png are predicted as Svalbard and Jan Mayen: 1 times
+  9224.png are predicted as Saint Martin: 1 times
+
+True Label: Timor-Leste
+  12490.png are predicted as Qatar: 1 times
+  12499.png, 12444.png, 12502.png, 12501.png, timor-leste_1.png, 12540.png, 12522.png, 12529.png, 12455.png, 12533.png, 12514.png, 12473.png, 12515.png, 12456.png are predicted as Timor-Leste: 14 times
+  12493.png are predicted as Morocco: 1 times
+  12487.png, 12471.png, 12486.png are predicted as China: 3 times
+  12535.png are predicted as Svalbard and Jan Mayen: 1 times
+  12497.png are predicted as Belarus: 1 times
+  12537.png are predicted as Bahrain: 1 times
+
+True Label: Bouvet Island
+  5109.png, 5107.png, 5102.png, 5123.png, 5126.png, 5097.png, 5114.png are predicted as Svalbard and Jan Mayen: 7 times
+  OIP.XbERPjatcIrmdWdR1S0UbwHaE0.png, 5082.png, 5078.png, 5080.png are predicted as Norway: 4 times
+  5110.png are predicted as Austria: 1 times
+
+True Label: Egypt
+  22814.png are predicted as Saint Barthélemy: 1 times
+  22808.png are predicted as Syria: 1 times
+  22761.png are predicted as Iraq: 1 times
+  22777.png, 22823.png, 22736.png, 22788.png, 22765.png, 22745.png, 22752.png, 22785.png, 22812.png, 22741.png, 22792.png, 22790.png, egypt_1.png, 22789.png, 22749.png, 22756.png are predicted as Egypt: 16 times
+  22780.png are predicted as Jersey: 1 times
+  22768.png are predicted as São Tomé and Príncipe: 1 times
+  22807.png are predicted as Sudan: 1 times
+
+True Label: Ethiopia
+  2156.png, 2106.png, 2095.png, 2173.png, 2082.png, 2101.png, ethiopia_1.png, 2148.png, 2178.png, 2110.png, 2149.png, 2087.png, 2080.png, 2164.png, 2109.png, 2090.png, 2086.png, 2114.png, 2081.png, 2161.png are predicted as Ethiopia: 20 times
+  2116.png are predicted as Gabon: 1 times
+  2139.png are predicted as Pakistan: 1 times
+
+True Label: Lebanon
+  17836.png, 17868.png, 17863.png, 17812.png, 17838.png, 17824.png, 17888.png, 17877.png, lebanon_1.png, 17848.png, 17871.png, 17843.png, 17898.png, 17883.png, 17891.png, 17809.png, 17886.png, 17884.png are predicted as Lebanon: 18 times
+  17822.png are predicted as Poland: 1 times
+  17879.png are predicted as Isle of Man: 1 times
+  17895.png are predicted as Austria: 1 times
+  17885.png are predicted as French Polynesia: 1 times
+
+True Label: Djibouti
+  2525.png, 2559.png, 2489.png, 2491.png, 2558.png, 2546.png, 2508.png, 2512.png, 2563.png, 2529.png, 2479.png, 2532.png, 2521.png, 2511.png, 2554.png, 2571.png, 2574.png, 2494.png, 2504.png, djibouti_1.png are predicted as Djibouti: 20 times
+  2526.png are predicted as Svalbard and Jan Mayen: 1 times
+  2500.png are predicted as Caribbean Netherlands: 1 times
+
+True Label: Comoros
+  23232.png, 23261.png, 23253.png, 23304.png, 23228.png, 23298.png, comoros_1.png, 23315.png, 23273.png, 23275.png, 23289.png, 23257.png, 23251.png, 23278.png, 23243.png, 23258.png, 23252.png, 23260.png are predicted as Comoros: 18 times
+  23308.png are predicted as Ireland: 1 times
+  23295.png are predicted as Greenland: 1 times
+  23282.png are predicted as Cambodia: 1 times
+  23266.png are predicted as Senegal: 1 times
+
+True Label: French Polynesia
+  23986.png, 24016.png, 23927.png, 23983.png, 23939.png, 23988.png, 23961.png, 23982.png, 23991.png, 23957.png, 24006.png, 24024.png, 23931.png, 23945.png, 24010.png, 24026.png, 24021.png, 24018.png, 24007.png are predicted as French Polynesia: 19 times
+  24003.png are predicted as Iraq: 1 times
+  24022.png are predicted as Cyprus: 1 times
+
+True Label: Trinidad and Tobago
+  2437.png, 2462.png, 2388.png, 2428.png, 2429.png, 2405.png, trinidad and tobago_1.png, 2477.png, 2425.png, 2397.png, 2420.png, 2456.png, 2478.png, 2423.png, 2417.png, 2440.png, 2434.png, 2465.png, 2406.png, 2474.png, 2422.png are predicted as Trinidad and Tobago: 21 times
+  2470.png are predicted as Ecuador: 1 times
+
+True Label: Seychelles
+  3804.png, 3869.png, 3838.png, 3830.png, 3847.png, 3829.png, 3798.png, 3867.png, seychelles_1.png, 3779.png, 3841.png, 3849.png, 3799.png, 3848.png, 3811.png, 3820.png, 3813.png, 3791.png, 3786.png, 3793.png, 3876.png are predicted as Seychelles: 21 times
+  3789.png are predicted as Morocco: 1 times
+
+True Label: French Southern and Antarctic Lands
+  10797.png are predicted as Cook Islands: 1 times
+  10829.png, 10784.png, 10830.png, OIP.XbERPjatcIrmdWdR1S0UbwHaE0.png, 10834.png, 10768.png, 10794.png, 10763.png, 10823.png, 10791.png, 10826.png, 10744.png, 10837.png are predicted as French Southern and Antarctic Lands: 13 times
+  10812.png are predicted as Australia: 1 times
+  10749.png, 10833.png are predicted as Pitcairn Islands: 2 times
+  10780.png are predicted as Saint Martin: 1 times
+  10814.png, 10751.png are predicted as New Zealand: 2 times
+  10832.png are predicted as Liechtenstein: 1 times
+
+True Label: Aruba
+  23864.png are predicted as Somalia: 1 times
+  23854.png are predicted as Lebanon: 1 times
+  23893.png, 23897.png, 23858.png, 23845.png, 23873.png, 23881.png, 23888.png, 23876.png, 23918.png, 23846.png, 23840.png, 23835.png, 23867.png, 23880.png, 23870.png are predicted as Aruba: 15 times
+  23860.png are predicted as American Samoa: 1 times
+  23925.png are predicted as Antarctica: 1 times
+  23890.png are predicted as Svalbard and Jan Mayen: 1 times
+  23894.png are predicted as Micronesia: 1 times
+
+True Label: Tonga
+  16175.png are predicted as Northern Mariana Islands: 1 times
+  16131.png, 16147.png, 16152.png, 16195.png, 16176.png, 16204.png, 16189.png, 16137.png, 16141.png, 16123.png, tonga_1.png, 16107.png, 16200.png, 16187.png, 16167.png, 16108.png are predicted as Tonga: 16 times
+  16153.png are predicted as Papua New Guinea: 1 times
+  16169.png are predicted as China: 1 times
+  16139.png are predicted as Qatar: 1 times
+  16143.png are predicted as Panama: 1 times
+  16150.png are predicted as Algeria: 1 times
+
+True Label: American Samoa
+  16235.png, 16232.png, 16213.png, 16269.png, 16304.png, 16243.png, 16286.png, 16220.png, 16224.png, 16265.png, 16244.png, 16272.png, 16250.png, 16227.png are predicted as American Samoa: 14 times
+  16240.png are predicted as Uzbekistan: 1 times
+  16249.png, 16254.png, 16261.png are predicted as Samoa: 3 times
+  16238.png are predicted as Honduras: 1 times
+  16290.png are predicted as El Salvador: 1 times
+  16305.png are predicted as Romania: 1 times
+
+True Label: Guernsey
+  17002.png are predicted as Argentina: 1 times
+  16917.png, 16944.png, 16956.png, 16971.png, 16973.png, 16933.png, 16982.png, 16963.png, 16966.png, 16976.png, 16981.png, 16916.png, 16947.png, 16983.png, 16911.png, 16996.png, 16975.png, 16991.png are predicted as Guernsey: 18 times
+  16909.png are predicted as Cyprus: 1 times
+  16910.png are predicted as Somalia: 1 times
+
+True Label: Tokelau
+  OIP.XbERPjatcIrmdWdR1S0UbwHaE0.png, 7588.png, 7639.png, 7584.png, 7571.png, 7593.png, 7620.png, 7607.png, 7569.png, 7623.png, 7609.png, 7575.png, 7655.png, 7622.png, 7647.png, 7642.png, 7648.png, 7613.png, 7645.png, 7578.png are predicted as Tokelau: 20 times
+  7665.png are predicted as Sint Maarten: 1 times
+
+True Label: Vietnam
+  21201.png, 21171.png, 21174.png, 21262.png, 21177.png, 21208.png, 21259.png, 21199.png, 21245.png, 21170.png, 21240.png, 21238.png, 21210.png, 21233.png, 21196.png are predicted as Vietnam: 15 times
+  21226.png are predicted as Morocco: 1 times
+  21219.png, 21249.png, 21232.png, 21252.png are predicted as China: 4 times
+  vietnam_1.png are predicted as Hong Kong: 1 times
+  21225.png are predicted as French Polynesia: 1 times
+
+True Label: Montenegro
+  3602.png, 3637.png, 3634.png, 3582.png, 3596.png, 3584.png, 3672.png, 3651.png, 3660.png, 3607.png, 3653.png, 3647.png, 3604.png, 3591.png, 3676.png, 3593.png, 3619.png, 3613.png are predicted as Montenegro: 18 times
+  3632.png are predicted as Suriname: 1 times
+  3655.png are predicted as Serbia: 1 times
+  3628.png are predicted as Antigua and Barbuda: 1 times
+  montenegro_1.png are predicted as Wallis and Futuna: 1 times
+
+True Label: Fiji
+  14805.png are predicted as Tuvalu: 1 times
+  14724.png are predicted as Anguilla: 1 times
+  14774.png are predicted as Argentina: 1 times
+  14778.png, fiji_1.png, 14781.png, 14773.png, 14723.png, 14787.png, 14737.png, 14729.png, 14794.png, 14769.png, 14803.png, 14771.png, 14782.png, 14784.png, 14728.png, 14792.png, 14707.png, 14760.png are predicted as Fiji: 18 times
+  14777.png are predicted as Turks and Caicos Islands: 1 times
+
+True Label: Sri Lanka
+  6490.png, 6563.png, 6505.png, 6512.png, 6503.png, 6486.png, 6478.png, 6474.png, 6498.png, 6544.png, 6488.png, 6495.png, 6529.png, 6469.png, 6493.png, sri lanka_1.png, 6560.png, 6504.png, 6538.png, 6491.png, 6484.png are predicted as Sri Lanka: 21 times
+  6553.png are predicted as Bahrain: 1 times
+
+True Label: Isle of Man
+  16585.png, 16589.png, 16542.png, 16517.png, 16540.png, 16579.png, 16521.png, 16551.png, 16553.png, 16566.png, 16518.png, 16543.png, 16527.png, 16557.png, 16533.png, 16572.png, 16571.png, 16529.png, 16601.png are predicted as Isle of Man: 19 times
+  16597.png are predicted as Vietnam: 1 times
+  16599.png are predicted as Wallis and Futuna: 1 times
+
+True Label: Turks and Caicos Islands
+  12971.png, 13005.png, 12941.png are predicted as Turks and Caicos Islands: 3 times
+  12960.png, 12952.png are predicted as Montserrat: 2 times
+  12982.png are predicted as Micronesia: 1 times
+  12995.png are predicted as Falkland Islands: 1 times
+  12973.png are predicted as Cocos (Keeling) Islands: 1 times
+  12951.png are predicted as Cayman Islands: 1 times
+  13002.png are predicted as Chad: 1 times
+  12969.png are predicted as Guam: 1 times
+  12966.png are predicted as Somalia: 1 times
+  12967.png are predicted as Pitcairn Islands: 1 times
+  12984.png are predicted as Caribbean Netherlands: 1 times
+
+True Label: Burundi
+  burundi_1.png are predicted as Spain: 1 times
+  6713.png, 6682.png, 6751.png, 6697.png, 6719.png, 6712.png, 6703.png, 6731.png, 6693.png, 6689.png, 6762.png, 6671.png, 6746.png, 6675.png, 6707.png, 6732.png, 6748.png, 6691.png, 6725.png are predicted as Burundi: 19 times
+  6704.png are predicted as Nigeria: 1 times
+  6715.png are predicted as Myanmar: 1 times
+
+True Label: Qatar
+  17400.png, 17376.png, 17358.png, 17351.png, 17398.png, 17333.png, qatar_1.png, 17381.png, 17384.png, 17311.png, 17328.png, 17334.png, 17309.png, 17352.png, 17365.png, 17338.png, 17317.png are predicted as Qatar: 17 times
+  17348.png are predicted as Saint Barthélemy: 1 times
+  17403.png are predicted as Cyprus: 1 times
+  17396.png are predicted as Japan: 1 times
+  17353.png are predicted as Chile: 1 times
+
+True Label: Antarctica
+  23745.png, 23814.png are predicted as Guatemala: 2 times
+  23772.png are predicted as French Southern and Antarctic Lands: 1 times
+  23809.png are predicted as Ethiopia: 1 times
+  23734.png, 23805.png, 23776.png, 23825.png, 23767.png, 23761.png, 23811.png, 23796.png, 23750.png, 23779.png, 23792.png, 23763.png, 23728.png, 23766.png, 23727.png are predicted as Antarctica: 15 times
+  23744.png, 23771.png are predicted as Somalia: 2 times
+
+True Label: Spain
+  10501.png, 10492.png, 10483.png, 10481.png, 10532.png, 10536.png, 10508.png, 10469.png, 10515.png, 10524.png, 10478.png, 10490.png, 10503.png, 10472.png are predicted as Spain: 14 times
+  10498.png are predicted as Montenegro: 1 times
+  spain_1.png are predicted as French Polynesia: 1 times
+  10513.png are predicted as Kyrgyzstan: 1 times
+  10497.png are predicted as Palau: 1 times
+
+True Label: Kyrgyzstan
+  18094.png, 18009.png, 18010.png, 18089.png, 18084.png, 18043.png, 18062.png, 18021.png, 18066.png, 18023.png, 18029.png, 18033.png, 18072.png, 18018.png, 18090.png, 18053.png, 18078.png, 18049.png, 18083.png, 18076.png are predicted as Kyrgyzstan: 20 times
+  18081.png are predicted as Mongolia: 1 times
+  kyrgyzstan_1.png are predicted as Hong Kong: 1 times
+
+True Label: Russia
+  22243.png, 22218.png, 22186.png, 22193.png, 22222.png, 22199.png, 22251.png, 22172.png, 22185.png, russia_1.png, 22171.png, 22215.png, 22209.png, 22235.png, 22263.png, 22210.png, 22245.png are predicted as Russia: 17 times
+  22249.png are predicted as Nepal: 1 times
+  22228.png, 22179.png, 22220.png are predicted as Slovenia: 3 times
+  22247.png are predicted as Slovakia: 1 times
+
+True Label: New Caledonia
+  19260.png, 19256.png, 19181.png, 19236.png, 19250.png, 19201.png, 19192.png, 19182.png, 19264.png, 19265.png, 19238.png, 19228.png, 19203.png, 19222.png, 19193.png, 19173.png are predicted as New Caledonia: 16 times
+  19186.png are predicted as Haiti: 1 times
+  19234.png are predicted as Mayotte: 1 times
+  19249.png are predicted as Cambodia: 1 times
+  19214.png are predicted as Eswatini: 1 times
+
+True Label: San Marino
+  8048.png, 8059.png, 8053.png, 8045.png, 7993.png, 8005.png, 8019.png, 8021.png, 7999.png, 8061.png, san marino_1.png, 8007.png, 8047.png, 7976.png, 8051.png, 8046.png, 8049.png, 8014.png, 8012.png, 7990.png, 8029.png are predicted as San Marino: 21 times
+  8033.png are predicted as Ecuador: 1 times
+
+True Label: Eritrea
+  4649.png are predicted as Cyprus: 1 times
+  4626.png, 4582.png, 4628.png, 4648.png, 4603.png, eritrea_1.png, 4613.png, 4588.png, 4632.png, 4656.png, 4618.png, 4667.png, 4651.png, 4605.png, 4581.png, 4622.png, 4631.png are predicted as Eritrea: 17 times
+  4673.png are predicted as Svalbard and Jan Mayen: 1 times
+  4666.png are predicted as Kenya: 1 times
+  4599.png are predicted as Åland Islands: 1 times
+  4619.png are predicted as China: 1 times
+
+True Label: Kosovo
+  3685.png, 3728.png, 3692.png, 3712.png, 3736.png, 3695.png, 3732.png, 3721.png, 3726.png, 3729.png, 3772.png, 3719.png, 3776.png, 3701.png, 3699.png, 3755.png, 3749.png, 3737.png are predicted as Kosovo: 18 times
+  3752.png are predicted as Gabon: 1 times
+  3745.png are predicted as Cape Verde: 1 times
+  kosovo_1.png are predicted as Guatemala: 1 times
+  3768.png are predicted as Serbia: 1 times
+
+True Label: United States Virgin Islands
+  8201.png, 8261.png, 8237.png, 8208.png, 8170.png, 8252.png, 8230.png, 8216.png, 8223.png, 8214.png, 8175.png, 8234.png, 8179.png, 8258.png, 8232.png, 8173.png, 8255.png are predicted as United States Virgin Islands: 17 times
+  8212.png are predicted as British Indian Ocean Territory: 1 times
+  8239.png are predicted as United States Minor Outlying Islands: 1 times
+  8220.png are predicted as Jersey: 1 times
+  8207.png are predicted as Cyprus: 1 times
+
+True Label: Barbados
+  11572.png, OIP.XbERPjatcIrmdWdR1S0UbwHaE0.png, 11598.png, 11605.png, 11583.png, 11615.png, 11551.png, 11554.png, 11597.png, 11558.png, 11560.png, 11613.png, 11561.png, 11574.png, 11576.png, 11569.png, 11631.png, barbados_1.png, 11635.png, 11620.png are predicted as Barbados: 20 times
+  11641.png are predicted as Bosnia and Herzegovina: 1 times
+  11633.png are predicted as Grenada: 1 times
+
+True Label: Saint Barthélemy
+  12620.png, 12576.png, 12597.png, 12635.png, 12593.png, 12592.png, 12612.png, 12640.png, 12610.png, 12555.png, 12561.png are predicted as Saint Barthélemy: 11 times
+  12619.png, 12584.png are predicted as France: 2 times
+  12546.png, 12568.png are predicted as Azerbaijan: 2 times
+  12578.png are predicted as Saint Martin: 1 times
+  12588.png are predicted as San Marino: 1 times
+  12589.png, 12562.png are predicted as Mayotte: 2 times
+  12571.png are predicted as Svalbard and Jan Mayen: 1 times
+  12553.png are predicted as Cyprus: 1 times
+
+True Label: Zimbabwe
+  8302.png, 8320.png, zimbabwe_1.png, 8274.png, 8347.png, 8325.png, 8284.png, 8263.png, 8293.png, 8327.png, 8309.png, 8307.png, 8315.png, 8267.png, 8265.png, 8304.png, 8349.png, 8273.png, 8278.png, 8287.png are predicted as Zimbabwe: 20 times
+  8350.png, 8362.png are predicted as Åland Islands: 2 times
+
+True Label: Samoa
+  20137.png, 20136.png, 20084.png, 20106.png, 20107.png, 20143.png, 20144.png, 20112.png, 20108.png, 20110.png, 20079.png, 20093.png, 20097.png, 20123.png are predicted as Samoa: 14 times
+  20151.png are predicted as Timor-Leste: 1 times
+  20089.png, 20154.png, 20165.png are predicted as American Samoa: 3 times
+  samoa_1.png are predicted as Taiwan: 1 times
+  20148.png, 20116.png are predicted as Kiribati: 2 times
+  20132.png are predicted as Bermuda: 1 times
+
+True Label: India
+  7050.png, 6991.png, 7019.png, 6977.png, 6969.png, 6975.png, india_1.png, 7032.png, 7042.png, 7025.png, 6981.png, 7000.png, 6997.png, 7023.png, 7059.png, 6996.png, 7016.png, 7047.png, 7065.png, 6992.png, 6967.png are predicted as India: 21 times
+  7038.png are predicted as Saint Barthélemy: 1 times
+
+True Label: Mexico
+  11457.png, 11448.png, 11502.png, mexico_1.png, 11443.png, 11515.png, 11507.png, 11519.png, 11464.png, 11472.png, 11517.png, 11535.png, 11478.png, 11496.png, 11511.png are predicted as Mexico: 15 times
+  11534.png are predicted as Bangladesh: 1 times
+  11514.png are predicted as France: 1 times
+  11538.png, 11447.png are predicted as Canada: 2 times
+  11480.png are predicted as Cameroon: 1 times
+  11488.png are predicted as Saint Barthélemy: 1 times
+  11446.png are predicted as Italy: 1 times
+
+True Label: Bangladesh
+  24597.png, 24557.png, 24569.png, 24553.png, 24563.png, 24581.png, 24540.png, 24547.png, 24550.png, 24573.png, 24546.png, 24531.png, 24624.png, 24556.png, 24599.png, 24607.png, bangladesh_1.png, 24567.png, 24574.png are predicted as Bangladesh: 19 times
+  24529.png are predicted as Afghanistan: 1 times
+  24562.png are predicted as Kuwait: 1 times
+  24537.png are predicted as Barbados: 1 times
+
+True Label: Georgia
+  OIP.XbERPjatcIrmdWdR1S0UbwHaE0.png, 5250.png, 5321.png, 5246.png, 5243.png, 5317.png, 5251.png, georgia_1.png are predicted as South Georgia: 8 times
+  5298.png, 5288.png, 5260.png, 5330.png, 5279.png, 5248.png, 5323.png, 5308.png, 5272.png, 5241.png, 5283.png, 5270.png are predicted as Georgia: 12 times
+  5252.png are predicted as Bahrain: 1 times
+  5300.png are predicted as Guernsey: 1 times
+
+True Label: Iraq
+  990.png, 1032.png, OIP.XbERPjatcIrmdWdR1S0UbwHaE0.png, 994.png, 1077.png, 989.png, 1038.png, 1078.png, 1022.png, 1079.png, 988.png, 998.png, iraq_1.png, 1061.png, 986.png, 1021.png, 1024.png, 1042.png, 983.png are predicted as Iraq: 19 times
+  1009.png are predicted as Luxembourg: 1 times
+  1059.png are predicted as Sudan: 1 times
+  1028.png are predicted as Hungary: 1 times
+
+True Label: Cayman Islands
+  6851.png, OIP.XbERPjatcIrmdWdR1S0UbwHaE0.png, 6861.png, 6770.png, 6782.png, 6809.png, 6796.png, 6826.png, 6781.png, 6784.png, 6795.png, 6855.png, 6819.png, 6776.png, 6799.png are predicted as Cayman Islands: 15 times
+  6769.png, 6835.png are predicted as Turks and Caicos Islands: 2 times
+  6786.png, 6834.png are predicted as Bermuda: 2 times
+  6829.png are predicted as Anguilla: 1 times
+  6775.png are predicted as Jersey: 1 times
+
+True Label: Palau
+  15979.png, 15952.png, 15914.png, 15946.png, 15981.png, 16002.png, 15934.png, 15932.png, 15929.png, 15960.png, 15999.png, 15961.png, 15922.png, 15925.png, 15957.png, 15908.png, 15991.png, 15975.png, 15956.png, 15972.png, 15955.png are predicted as Palau: 21 times
+  palau_1.png are predicted as Saint Barthélemy: 1 times
+
+True Label: United States Minor Outlying Islands
+  18431.png are predicted as Puerto Rico: 1 times
+  18491.png are predicted as Nepal: 1 times
+  18443.png, 18489.png are predicted as British Indian Ocean Territory: 2 times
+  18408.png, 18433.png, 18466.png, 18476.png are predicted as United States Minor Outlying Islands: 4 times
+  18472.png are predicted as San Marino: 1 times
+  18468.png are predicted as Martinique: 1 times
+  18484.png, 18471.png are predicted as French Polynesia: 2 times
+  18407.png, 18453.png, 18419.png, 18499.png are predicted as United States: 4 times
+  18480.png are predicted as Micronesia: 1 times
+  18493.png are predicted as Cocos (Keeling) Islands: 1 times
+  18423.png are predicted as Malaysia: 1 times
+  18410.png are predicted as Colombia: 1 times
+  18494.png are predicted as Iceland: 1 times
+
+True Label: Algeria
+  12651.png, 12642.png, 12714.png, 12670.png, 12672.png, 12688.png, 12682.png, 12691.png, 12740.png, 12653.png, 12683.png, 12679.png, 12720.png, 12709.png, 12646.png, 12659.png, 12719.png, 12694.png, algeria_1.png, 12728.png are predicted as Algeria: 20 times
+  12717.png are predicted as Argentina: 1 times
+  12703.png are predicted as Pakistan: 1 times
+
+True Label: Canada
+  canada_1.png, 17919.png are predicted as Peru: 2 times
+  17915.png are predicted as Cambodia: 1 times
+  17968.png, 17907.png, 17939.png, 17946.png, 17937.png, 17964.png, 17920.png, 17927.png, 17943.png, 17994.png, 17957.png, 17984.png, 17950.png, 17988.png, 17965.png, 17953.png are predicted as Canada: 16 times
+  17977.png are predicted as French Polynesia: 1 times
+  17970.png are predicted as Honduras: 1 times
+  17931.png are predicted as Timor-Leste: 1 times
+
+True Label: France
+  24058.png, 24110.png, 24094.png, 24113.png, 24083.png, 24035.png, 24108.png, 24045.png, 24114.png, 24053.png, 24104.png, 24088.png, 24107.png, 24092.png, 24102.png, 24095.png, 24087.png, 24043.png, 24126.png, 24120.png, 24050.png are predicted as France: 21 times
+  france_1.png are predicted as French Southern and Antarctic Lands: 1 times
+
+True Label: Cameroon
+  21286.png, 21288.png, 21278.png, 21273.png, 21276.png, cameroon_1.png, 21283.png, 21285.png, 21295.png, 21363.png, 21305.png, 21312.png, 21329.png, 21281.png, 21357.png, 21311.png, 21280.png, 21274.png, 21358.png are predicted as Cameroon: 19 times
+  21366.png are predicted as Benin: 1 times
+  21345.png are predicted as Solomon Islands: 1 times
+  21297.png are predicted as Sri Lanka: 1 times
+
+True Label: Costa Rica
+  23705.png, 23704.png, 23647.png, 23717.png, 23665.png, 23643.png, 23720.png, 23687.png, 23645.png, 23708.png, 23723.png, 23638.png, 23663.png, 23721.png, 23711.png, 23636.png, 23660.png are predicted as Costa Rica: 17 times
+  23700.png, costa rica_1.png, 23702.png are predicted as Suriname: 3 times
+  23652.png are predicted as South Sudan: 1 times
+  23666.png are predicted as Turkey: 1 times
+
+True Label: Moldova
+  8660.png, 8614.png, 8574.png, 8629.png, 8566.png, 8583.png, 8586.png, 8624.png, 8591.png, 8645.png, 8581.png, 8602.png, 8579.png, 8585.png, 8662.png, 8642.png, 8564.png are predicted as Moldova: 17 times
+  moldova_1.png, 8596.png are predicted as Andorra: 2 times
+  8611.png are predicted as Romania: 1 times
+  8604.png are predicted as Niue: 1 times
+  8607.png are predicted as Åland Islands: 1 times
+
+True Label: Argentina
+  1088.png are predicted as Cyprus: 1 times
+  1096.png are predicted as Nicaragua: 1 times
+  1179.png, 1097.png, 1144.png, 1143.png, 1105.png, 1136.png, 1089.png, 1180.png, 1125.png, 1149.png, 1171.png, 1134.png, 1092.png, 1131.png, 1116.png are predicted as Argentina: 15 times
+  1132.png, 1169.png are predicted as Micronesia: 2 times
+  argentina_1.png are predicted as United States Minor Outlying Islands: 1 times
+  1163.png are predicted as San Marino: 1 times
+  1111.png are predicted as Uzbekistan: 1 times
+
+True Label: Papua New Guinea
+  10728.png, 10665.png, 10741.png, 10672.png, 10703.png, papua new guinea_1.png, 10720.png, 10734.png, 10643.png, 10699.png, 10727.png, 10697.png, 10723.png, 10644.png, 10724.png, 10659.png, 10679.png, 10666.png, 10646.png, 10692.png are predicted as Papua New Guinea: 20 times
+  10657.png are predicted as Guinea: 1 times
+  10701.png are predicted as Nepal: 1 times
+
+True Label: Albania
+  13644.png, 13638.png, OIP.XbERPjatcIrmdWdR1S0UbwHaE0.png, 13634.png, 13659.png, 13628.png, 13671.png, 13646.png, 13652.png, 13653.png, albania_1.png, 13678.png, 13626.png, 13617.png, 13611.png, 13699.png, 13702.png, 13669.png, 13681.png, 13618.png are predicted as Albania: 20 times
+  13648.png are predicted as Belize: 1 times
+  13698.png are predicted as Malawi: 1 times
+
+True Label: Bhutan
+  14340.png, 14369.png, 14341.png, 14379.png, 14330.png, 14380.png, 14324.png, 14366.png, 14363.png, 14371.png, 14356.png, 14333.png, 14392.png, 14403.png, 14315.png, 14361.png, 14385.png, bhutan_1.png, 14365.png, 14346.png, 14322.png, 14314.png are predicted as Bhutan: 22 times
+
+True Label: Estonia
+  513.png, 542.png, 506.png, 500.png, estonia_1.png, 586.png, 501.png, 587.png, 577.png, 536.png, 512.png, 541.png, 566.png, 558.png, 560.png, 518.png are predicted as Estonia: 16 times
+  562.png are predicted as Macau: 1 times
+  584.png are predicted as Indonesia: 1 times
+  594.png are predicted as Argentina: 1 times
+  553.png are predicted as Brazil: 1 times
+  567.png are predicted as Cape Verde: 1 times
+  593.png are predicted as Slovakia: 1 times
+
+True Label: Slovenia
+  6456.png are predicted as Lithuania: 1 times
+  6423.png, 6408.png, 6376.png, 6458.png, 6399.png, 6389.png, 6431.png, slovenia_1.png, 6379.png, 6403.png, 6418.png, 6366.png, 6461.png are predicted as Slovenia: 13 times
+  6406.png are predicted as Faroe Islands: 1 times
+  6420.png, 6410.png are predicted as Russia: 2 times
+  6437.png are predicted as Armenia: 1 times
+  6427.png are predicted as Bulgaria: 1 times
+  6413.png, 6415.png are predicted as Slovakia: 2 times
+  6451.png are predicted as Laos: 1 times
+
+True Label: Belize
+  4770.png, 4738.png, 4761.png, 4740.png, 4712.png, 4725.png, 4728.png, 4730.png, 4683.png, 4777.png, 4743.png, 4729.png, 4706.png, 4767.png, 4697.png, belize_1.png, 4752.png, 4749.png, 4682.png, 4723.png are predicted as Belize: 20 times
+  4680.png are predicted as Guam: 1 times
+  4702.png are predicted as Martinique: 1 times
+
+True Label: Vanuatu
+  13744.png, 13748.png, OIP.XbERPjatcIrmdWdR1S0UbwHaE0.png, 13711.png, 13752.png, 13771.png, 13733.png, 13804.png, 13736.png, vanuatu_1.png, 13721.png, 13780.png, 13768.png, 13775.png, 13751.png are predicted as Vanuatu: 15 times
+  13735.png are predicted as Pakistan: 1 times
+  13799.png are predicted as São Tomé and Príncipe: 1 times
+  13738.png are predicted as Burkina Faso: 1 times
+  13762.png are predicted as Libya: 1 times
+  13764.png are predicted as Maldives: 1 times
+  13783.png, 13794.png are predicted as Angola: 2 times
+
+True Label: Australia
+  8712.png, 8740.png, 8680.png, 8705.png, 8720.png, 8702.png, 8748.png, 8674.png, 8716.png, 8758.png, 8757.png, 8723.png, 8703.png, 8682.png, 8686.png are predicted as Australia: 15 times
+  8701.png are predicted as Caribbean Netherlands: 1 times
+  8710.png, 8708.png are predicted as New Zealand: 2 times
+  8734.png are predicted as Iceland: 1 times
+  8673.png are predicted as South Africa: 1 times
+  8693.png are predicted as Serbia: 1 times
+  australia_1.png are predicted as Tuvalu: 1 times
+
+True Label: Jamaica
+  OIP.XbERPjatcIrmdWdR1S0UbwHaE0.png, 11346.png, 11389.png, 11343.png, 11399.png, 11422.png, jamaica_1.png, 11352.png, 11375.png, 11359.png, 11379.png, 11414.png, 11376.png, 11349.png, 11353.png, 11355.png, 11442.png, 11424.png, 11398.png, 11400.png are predicted as Jamaica: 20 times
+  11377.png are predicted as Estonia: 1 times
+  11420.png are predicted as United Kingdom: 1 times
+
+True Label: Niger
+  13412.png, 13416.png, OIP.XbERPjatcIrmdWdR1S0UbwHaE0.png, 13458.png, 13500.png, 13473.png, 13422.png, 13498.png, 13446.png, 13426.png, 13465.png, niger_1.png, 13483.png, 13414.png, 13419.png, 13407.png, 13444.png, 13478.png, 13447.png, 13494.png are predicted as Niger: 20 times
+  13450.png are predicted as United States Virgin Islands: 1 times
+  13489.png are predicted as Brunei: 1 times
+
+True Label: Åland Islands
+  10926.png, OIP.XbERPjatcIrmdWdR1S0UbwHaE0.png, 10865.png, 10912.png, 10859.png, 10922.png, 10928.png, 10940.png, 10849.png, 10911.png, 10875.png, 10864.png are predicted as Åland Islands: 12 times
+  10884.png are predicted as Nauru: 1 times
+  10893.png are predicted as Sweden: 1 times
+  10931.png are predicted as Gabon: 1 times
+  10916.png are predicted as Faroe Islands: 1 times
+  10892.png are predicted as Burkina Faso: 1 times
+  10921.png are predicted as New Caledonia: 1 times
+  10886.png are predicted as Afghanistan: 1 times
+  10935.png are predicted as Saint Barthélemy: 1 times
+  10876.png are predicted as Croatia: 1 times
+
+True Label: Pakistan
+  173.png, 164.png, 176.png, 163.png, 126.png, 116.png, 108.png, 151.png, 143.png, 152.png, pakistan_1.png, 166.png, 184.png, 103.png, 196.png, 160.png, 183.png, 111.png, 110.png are predicted as Pakistan: 19 times
+  197.png are predicted as British Indian Ocean Territory: 1 times
+  102.png are predicted as Madagascar: 1 times
+  194.png are predicted as Mauritania: 1 times
+
+True Label: Gibraltar
+  10272.png are predicted as Denmark: 1 times
+  10324.png, 10322.png, 10296.png, 10341.png, 10320.png, 10278.png, 10275.png, 10319.png, 10262.png, 10290.png, 10337.png, 10355.png, 10346.png, 10276.png are predicted as Gibraltar: 14 times
+  10335.png are predicted as French Polynesia: 1 times
+  10274.png are predicted as Spain: 1 times
+  10264.png are predicted as Japan: 1 times
+  10289.png are predicted as Poland: 1 times
+  10287.png are predicted as United States: 1 times
+  10305.png are predicted as Tonga: 1 times
+
+True Label: Micronesia
+  OIP.XbERPjatcIrmdWdR1S0UbwHaE0.png, 11167.png, 11150.png, 11212.png, 11175.png, 11155.png, 11144.png, 11202.png, 11154.png, 11206.png, 11153.png, 11143.png are predicted as Micronesia: 12 times
+  11185.png are predicted as Kosovo: 1 times
+  micronesia_1.png, 11214.png, 11163.png are predicted as Somalia: 3 times
+  11187.png are predicted as Aruba: 1 times
+  11207.png are predicted as British Indian Ocean Territory: 1 times
+  11192.png are predicted as Paraguay: 1 times
+  11229.png are predicted as Réunion: 1 times
+  11242.png are predicted as Antarctica: 1 times
+  11204.png are predicted as San Marino: 1 times
+
+True Label: Indonesia
+  indonesia_1.png, 16649.png, 16676.png, 16654.png, 16630.png, 16637.png, 16680.png, 16658.png, 16701.png, 16682.png, 16625.png, 16640.png, 16622.png, 16644.png, 16613.png, 16679.png are predicted as Indonesia: 16 times
+  16634.png, 16659.png are predicted as Monaco: 2 times
+  16661.png, 16653.png are predicted as Singapore: 2 times
+  16650.png are predicted as Laos: 1 times
+  16628.png are predicted as Luxembourg: 1 times
+
+True Label: Cuba
+  5908.png are predicted as Uruguay: 1 times
+  5961.png, 5929.png, 5936.png, 5874.png, 5870.png, cuba_1.png, 5916.png, 5907.png, 5904.png, 5903.png, 5919.png, 5930.png, 5958.png, 5909.png, 5956.png, 5937.png, 5899.png, 5910.png, 5923.png, 5951.png are predicted as Cuba: 20 times
+  5933.png are predicted as Puerto Rico: 1 times
+
+True Label: Netherlands
+  netherlands_1.png, 22122.png, 22081.png, 22075.png, 22159.png, 22155.png, 22140.png, 22073.png, 22123.png, 22132.png, 22151.png, 22126.png are predicted as Netherlands: 12 times
+  22121.png are predicted as Dominica: 1 times
+  22089.png, 22125.png are predicted as Croatia: 2 times
+  22107.png are predicted as Somalia: 1 times
+  22091.png are predicted as Paraguay: 1 times
+  22088.png, 22146.png, 22092.png, 22077.png, 22160.png are predicted as Caribbean Netherlands: 5 times
+
+True Label: Mauritius
+  mauritius_1.png, 5658.png, 5656.png, 5727.png, 5664.png, 5722.png, 5645.png, 5635.png, 5730.png, 5673.png, 5670.png, 5683.png, 5677.png, 5716.png, 5667.png, 5669.png, 5641.png, 5709.png, 5687.png, 5728.png, 5685.png, 5684.png are predicted as Mauritius: 22 times
+
+True Label: Kazakhstan
+  20855.png, 20808.png, 20771.png, 20812.png, 20860.png, 20810.png, 20824.png, 20816.png, 20783.png, 20837.png, 20867.png, 20785.png, 20835.png, 20829.png, 20834.png, 20772.png are predicted as Kazakhstan: 16 times
+  20790.png are predicted as Somalia: 1 times
+  20807.png are predicted as San Marino: 1 times
+  20779.png are predicted as Christmas Island: 1 times
+  20866.png are predicted as Cape Verde: 1 times
+  kazakhstan_1.png are predicted as Saint Barthélemy: 1 times
+
+True Label: Azerbaijan
+  14295.png, azerbaijan_1.png, 14222.png, 14263.png, 14245.png, 14248.png, 14251.png, 14221.png, 14206.png, 14274.png, 14297.png, 14230.png, 14246.png, 14278.png, 14259.png are predicted as Azerbaijan: 15 times
+  14225.png are predicted as Cambodia: 1 times
+  14255.png are predicted as Denmark: 1 times
+  14237.png are predicted as Belarus: 1 times
+  14229.png are predicted as Iran: 1 times
+  14241.png are predicted as Hong Kong: 1 times
+  14300.png are predicted as Christmas Island: 1 times
+  14258.png are predicted as New Caledonia: 1 times
+
+True Label: Ghana
+  19775.png, 19855.png, 19827.png, 19845.png, 19780.png, 19778.png, 19822.png, 19817.png, 19792.png, 19819.png, 19772.png, 19868.png, 19829.png, 19852.png, 19773.png, ghana_1.png, 19776.png are predicted as Ghana: 17 times
+  19803.png, 19774.png, 19790.png are predicted as Bolivia: 3 times
+  19858.png are predicted as Gabon: 1 times
+
+True Label: China
+  china_1.png, 23146.png, 23157.png, 23173.png, 23135.png, 23203.png, 23196.png, 23177.png, 23193.png, 23175.png, 23185.png, 23200.png, 23159.png, 23139.png, 23178.png, 23141.png are predicted as China: 16 times
+  23212.png are predicted as Poland: 1 times
+  23222.png are predicted as Wallis and Futuna: 1 times
+  23194.png are predicted as Singapore: 1 times
+  23210.png are predicted as Andorra: 1 times
+  23215.png are predicted as Svalbard and Jan Mayen: 1 times
+
+True Label: Oman
+  20172.png, 20235.png, 20186.png, 20266.png, 20215.png, 20242.png, 20229.png, 20202.png, 20268.png, 20197.png, 20185.png, 20269.png, 20201.png, 20246.png, 20258.png, oman_1.png, 20222.png, 20194.png, 20205.png, 20227.png are predicted as Oman: 20 times
+  20190.png are predicted as Angola: 1 times
+  20224.png are predicted as South Korea: 1 times
+
+True Label: Wallis and Futuna
+  16090.png, 16022.png, 16035.png, 16052.png, 16098.png, 16085.png, 16063.png, 16041.png, 16073.png, 16070.png, 16092.png, 16006.png, 16095.png, 16042.png, 16032.png, 16018.png, 16024.png, 16081.png, 16067.png are predicted as Wallis and Futuna: 19 times
+  16039.png are predicted as Isle of Man: 1 times
+  16077.png are predicted as Switzerland: 1 times
+
+True Label: Macau
+  OIP.XbERPjatcIrmdWdR1S0UbwHaE0.png, 1206.png, 1275.png, 1208.png, 1240.png, 1212.png, 1230.png, 1246.png, 1223.png, 1196.png, 1217.png, 1186.png, 1263.png, 1226.png, 1218.png, 1194.png, 1229.png, 1251.png, 1267.png, 1211.png are predicted as Macau: 20 times
+  1222.png are predicted as Saudi Arabia: 1 times
+
+True Label: British Indian Ocean Territory
+  17672.png, 17634.png, 17617.png, 17703.png, 17640.png, 17613.png, 17705.png, 17692.png, 17606.png, 17679.png, 17607.png, 17680.png, 17655.png are predicted as British Indian Ocean Territory: 13 times
+  17685.png are predicted as Svalbard and Jan Mayen: 1 times
+  17658.png are predicted as Anguilla: 1 times
+  17661.png are predicted as Brazil: 1 times
+  17646.png are predicted as Panama: 1 times
+  17626.png are predicted as Singapore: 1 times
+  17652.png are predicted as Fiji: 1 times
+  17667.png are predicted as Antarctica: 1 times
+  17629.png are predicted as Eswatini: 1 times
+
+True Label: Yemen
+  16422.png, 16434.png, 16488.png, 16439.png, 16451.png, 16473.png, 16425.png, 16463.png, 16408.png, 16432.png, 16482.png, 16495.png, 16485.png, 16414.png, 16442.png, 16474.png, 16503.png are predicted as Yemen: 17 times
+  yemen_1.png, 16480.png are predicted as Syria: 2 times
+  16491.png are predicted as Luxembourg: 1 times
+  16467.png are predicted as Liberia: 1 times
+  16452.png are predicted as Austria: 1 times
+
+True Label: São Tomé and Príncipe
+  22513.png are predicted as Cyprus: 1 times
+  22556.png, 22564.png, 22491.png, 22551.png, 22486.png, 22482.png, 22541.png, 22549.png, 22505.png, 22503.png, 22507.png, 22544.png, 22478.png, 22509.png are predicted as São Tomé and Príncipe: 14 times
+  22488.png are predicted as Nigeria: 1 times
+  22536.png are predicted as Antigua and Barbuda: 1 times
+  22512.png, 22522.png are predicted as Guyana: 2 times
+  22527.png are predicted as Saint Barthélemy: 1 times
+  são tomé and príncipe_1.png are predicted as Uganda: 1 times
+  22523.png are predicted as Botswana: 1 times
+
+True Label: Germany
+  13009.png, 13099.png, 13029.png, 13084.png, 13036.png, 13040.png, 13076.png, germany_1.png, 13088.png, 13012.png, 13039.png, 13057.png, 13064.png, 13063.png, 13060.png, 13032.png, 13101.png, 13017.png, 13068.png, 13056.png, 13093.png are predicted as Germany: 21 times
+  13054.png are predicted as Saint Pierre and Miquelon: 1 times
+
+True Label: Martinique
+  7884.png, 7962.png, 7893.png, 7911.png, 7953.png, 7881.png, 7868.png, 7874.png, 7906.png, 7882.png, 7892.png, 7913.png, 7900.png are predicted as Martinique: 13 times
+  7877.png are predicted as El Salvador: 1 times
+  7871.png are predicted as Macau: 1 times
+  7885.png are predicted as French Southern and Antarctic Lands: 1 times
+  7954.png are predicted as Somalia: 1 times
+  7901.png, 7948.png are predicted as United States Minor Outlying Islands: 2 times
+  7872.png are predicted as Honduras: 1 times
+  7891.png are predicted as Israel: 1 times
+
+True Label: Turkey
+  turkey_1.png, 22674.png, 22694.png, 22720.png, 22675.png, 22632.png, 22653.png, 22711.png, 22663.png, 22660.png, 22655.png are predicted as Turkey: 11 times
+  22730.png, 22650.png, 22707.png are predicted as China: 3 times
+  22634.png are predicted as Morocco: 1 times
+  22644.png are predicted as Kazakhstan: 1 times
+  22648.png are predicted as Uganda: 1 times
+  22645.png are predicted as Japan: 1 times
+  22722.png are predicted as Isle of Man: 1 times
+  22679.png are predicted as Switzerland: 1 times
+  22640.png, 22672.png are predicted as Bahrain: 2 times
+
+True Label: Bulgaria
+  13837.png, 13843.png, 13899.png, 13815.png, 13876.png, 13875.png, 13894.png, 13866.png, 13862.png, 13856.png, 13840.png, 13838.png, 13847.png, 13878.png, 13889.png, 13830.png, 13884.png, 13821.png, 13809.png, 13853.png, 13827.png are predicted as Bulgaria: 21 times
+  bulgaria_1.png are predicted as Spain: 1 times
+
+True Label: Jersey
+  13139.png are predicted as Saint Barthélemy: 1 times
+  13188.png, 13165.png, 13147.png, 13144.png, 13138.png, 13199.png, 13182.png, 13170.png, 13136.png, 13115.png, 13150.png, 13118.png, 13117.png, 13157.png, 13181.png, 13203.png, 13205.png, 13145.png are predicted as Jersey: 18 times
+  13111.png are predicted as Comoros: 1 times
+  13190.png are predicted as Cyprus: 1 times
+
+True Label: Gabon
+  21767.png, 21710.png, 21724.png, 21721.png, 21712.png, 21762.png, 21727.png, 21760.png, 21675.png, 21707.png, 21747.png, 21701.png, 21689.png, 21734.png, 21695.png, 21769.png, gabon_1.png, 21690.png, 21671.png, 21733.png are predicted as Gabon: 20 times
+  21718.png are predicted as Christmas Island: 1 times
+  21717.png are predicted as Colombia: 1 times
+
+True Label: Honduras
+  honduras_1.png, 13380.png, 13379.png, 13329.png, 13346.png, 13306.png, 13307.png, 13371.png, 13334.png, 13377.png, 13392.png, 13358.png, 13355.png, 13340.png, 13367.png, 13352.png, 13317.png are predicted as Honduras: 17 times
+  13385.png are predicted as Uzbekistan: 1 times
+  13404.png are predicted as El Salvador: 1 times
+  13326.png are predicted as Egypt: 1 times
+  13366.png are predicted as Israel: 1 times
+  13313.png are predicted as Sierra Leone: 1 times
+
+True Label: Cambodia
+  8084.png, 8127.png, 8075.png, 8126.png, 8128.png, 8132.png, 8118.png, 8066.png, 8149.png, 8137.png, 8076.png, 8142.png, 8111.png, cambodia_1.png, 8078.png, 8065.png, 8123.png, 8162.png, 8134.png are predicted as Cambodia: 19 times
+  8088.png are predicted as Mauritius: 1 times
+  8139.png are predicted as Saint Martin: 1 times
+
+True Label: British Virgin Islands
+  4208.png, 4277.png, 4213.png, 4259.png, 4187.png, 4241.png, 4183.png, 4201.png, 4253.png, 4263.png, 4214.png, 4185.png, 4195.png, 4210.png, 4258.png are predicted as British Virgin Islands: 15 times
+  4192.png, 4182.png are predicted as Montserrat: 2 times
+  4203.png are predicted as Pitcairn Islands: 1 times
+  4181.png are predicted as Falkland Islands: 1 times
+  4276.png are predicted as British Indian Ocean Territory: 1 times
+  4239.png are predicted as Cook Islands: 1 times
+
+True Label: Guam
+  19734.png, 19766.png, 19736.png, 19762.png, 19761.png, 19675.png, 19723.png, 19743.png, 19671.png, 19703.png, 19725.png, 19716.png, 19722.png, 19713.png, 19672.png, 19718.png are predicted as Guam: 16 times
+  19770.png are predicted as Svalbard and Jan Mayen: 1 times
+  19726.png are predicted as Anguilla: 1 times
+  19728.png are predicted as Slovenia: 1 times
+  19708.png are predicted as Libya: 1 times
+  19751.png are predicted as Cook Islands: 1 times
+
+True Label: Liechtenstein
+  2772.png are predicted as Saint Barthélemy: 1 times
+  2742.png are predicted as New Zealand: 1 times
+  2718.png, 2702.png, 2696.png, 2748.png, 2773.png, 2707.png, 2699.png, 2733.png, liechtenstein_1.png, 2744.png, 2704.png, 2749.png, 2727.png, 2688.png, 2766.png are predicted as Liechtenstein: 15 times
+  2719.png are predicted as Latvia: 1 times
+  2695.png are predicted as Slovenia: 1 times
+  2737.png are predicted as Haiti: 1 times
+  2728.png are predicted as Czechia: 1 times
+  2725.png are predicted as Chile: 1 times
+
+True Label: Saint Lucia
+  7136.png, 7124.png, 7072.png, 7097.png, 7157.png, 7069.png, 7098.png, 7129.png, 7162.png, saint lucia_1.png, 7084.png, 7093.png, 7144.png, 7121.png, 7109.png, 7074.png, 7071.png, 7066.png, 7091.png are predicted as Saint Lucia: 19 times
+  7150.png, 7112.png are predicted as Kosovo: 2 times
+  7086.png are predicted as United States Virgin Islands: 1 times
+
+True Label: Saudi Arabia
+  13526.png, 13547.png, 13605.png, saudi arabia_1.png, 13580.png, 13563.png, 13540.png, 13511.png, 13558.png, 13512.png, 13561.png, 13591.png, 13574.png, 13555.png, 13508.png, 13600.png are predicted as Saudi Arabia: 16 times
+  13592.png are predicted as Guatemala: 1 times
+  13528.png are predicted as Somalia: 1 times
+  13557.png are predicted as New Caledonia: 1 times
+  13554.png are predicted as Mauritania: 1 times
+  13529.png are predicted as Cocos (Keeling) Islands: 1 times
+  13515.png are predicted as Christmas Island: 1 times
+
+True Label: Ukraine
+  2851.png, OIP.XbERPjatcIrmdWdR1S0UbwHaE0.png, 2854.png, 2861.png, 2796.png, 2797.png, 2859.png, ukraine_1.png, 2830.png, 2817.png, 2847.png, 2814.png, 2781.png, 2783.png, 2808.png, 2852.png are predicted as Ukraine: 16 times
+  2803.png are predicted as Guatemala: 1 times
+  2795.png are predicted as Lesotho: 1 times
+  2869.png are predicted as Bermuda: 1 times
+  2873.png are predicted as Micronesia: 1 times
+  2825.png are predicted as Ireland: 1 times
+  2837.png are predicted as Curaçao: 1 times
+
+True Label: Sudan
+  20295.png, 20363.png, 20331.png, 20293.png, 20310.png, 20308.png, 20353.png, 20309.png are predicted as South Sudan: 8 times
+  20304.png, 20300.png, 20312.png, 20341.png, 20337.png, 20359.png, 20314.png, 20346.png, sudan_1.png, 20305.png are predicted as Sudan: 10 times
+  20354.png are predicted as Andorra: 1 times
+  20334.png are predicted as Angola: 1 times
+  20285.png are predicted as Austria: 1 times
+  20319.png are predicted as Luxembourg: 1 times
+
+True Label: Bolivia
+  17728.png, 17708.png, 17770.png, 17781.png, 17769.png, 17736.png, 17724.png, 17748.png, 17738.png, 17753.png, 17750.png, 17756.png, 17789.png, 17742.png, 17707.png, 17715.png, 17801.png, 17772.png are predicted as Bolivia: 18 times
+  17747.png are predicted as Belarus: 1 times
+  17755.png are predicted as Cyprus: 1 times
+  bolivia_1.png are predicted as Tajikistan: 1 times
+  17774.png are predicted as Ghana: 1 times
